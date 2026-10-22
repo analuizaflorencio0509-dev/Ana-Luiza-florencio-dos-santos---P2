@@ -1,0 +1,37 @@
+{
+  "periodo_fiscal_brasil": [
+    2015,
+    2024
+  ],
+  "n_municipio_anos_brasil": 20,
+  "n_receita_ausente": 0,
+  "n_despesa_ausente": 0,
+  "n_populacao_ausente": 2,
+  "anos_populacao_disponiveis": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2024
+  ],
+  "anos_populacao_ausentes": [
+    2023
+  ],
+  "periodo_pib_municipal": [
+    2015,
+    2023
+  ],
+  "n_pib_ausente": 2,
+  "status_dca_homologado_ou_retificado": 20,
+  "status_dca_total_ente_ano": 20,
+  "periodo_chile": [
+    2015,
+    2024
+  ],
+  "n_anos_chile": 10,
+  "observacao": "Ausências ficam como NaN/blank. População 2015-2021 e 2024: estimativas IBGE/SIDRA 6579; 2022: Censo 2022/SIDRA 4709; 2023: sem estimativa municipal anual, mantida ausente. Chile 2015 vem da edição DIPRES 2015-2024; anos 2016-2024 da edição atualizada 2016-2025, excluído 2025 provisório."
+}
