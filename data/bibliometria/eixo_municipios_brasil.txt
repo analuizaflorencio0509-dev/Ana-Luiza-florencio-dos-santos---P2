@@ -1,0 +1,86 @@
+{
+  "topic": "Federalismo fiscal brasileiro e autonomia das receitas municipais",
+  "articles": [
+    {
+      "authors": "Fernando Rezende",
+      "year": 1995,
+      "title": "Federalismo fiscal no Brasil",
+      "journal": "Revista de Economia Política / Brazilian Journal of Political Economy",
+      "doi": "10.1590/0101-31571995-0834",
+      "publisher_or_index_url": "https://www.scielo.br/j/rep/a/9dv7mgTbjZ69JPgCNJ5gyth/?lang=pt",
+      "verified_peer_review_evidence": "O registro oficial SciELO/FGV identifica o texto como artigo do periódico e o Crossref o classifica como journal-article, com o DOI informado; o SCImago descreve explicitamente a Brazilian Journal of Political Economy/Revista de Economia Política como revista acadêmica peer reviewed: https://www.scimagojr.com/journalsearch.php?q=5800169372&tip=sid&clean=0.",
+      "finding_and_relevance": "A análise fundacional argumenta que a Constituição de 1988 ampliou a descentralização das receitas, mas agravou desequilíbrios verticais e horizontais, confundindo autonomia financeira com liberdade de gastar sem responsabilidade tributária. É referência central para definir autonomia municipal, repartição tributária, transferências compensatórias e os limites estruturais para municípios como Bagé e Sant'Ana do Livramento."
+    },
+    {
+      "authors": "Octavio Amorim Neto; Andrei Gomes Simonassi",
+      "year": 2013,
+      "title": "Bases políticas das transferências intergovernamentais no Brasil (1985-2004)",
+      "journal": "Revista de Economia Política",
+      "doi": "10.1590/S0101-31572013000400010",
+      "publisher_or_index_url": "https://www.scielo.br/j/rep/a/TP9LNc6zf5Y3smDkj3CyCbF/?format=html&lang=pt&ilang=pt_BR",
+      "verified_peer_review_evidence": "A página oficial SciELO do artigo registra submissão em 03/07/2012, aprovação em 09/01/2013 e agradecimento aos pareceristas; o registro Crossref confirma type journal-article, periódico e DOI.",
+      "finding_and_relevance": "Com modelos de painel e variáveis instrumentais, o estudo mostra que a composição das coalizões governativas e objetivos políticos explicam transferências per capita mais do que equidade social ou eficiência, contribuindo para congelar desigualdades inter-regionais. Embora examine principalmente transferências da União aos estados, oferece mecanismo comparativo indispensável para interpretar a dimensão política das transferências que financiam municípios."
+    },
+    {
+      "authors": "Wellington de Oliveira Massardi; Luiz Antonio Abrantes",
+      "year": 2015,
+      "title": "Esforço fiscal, dependência do FPM e desenvolvimento socioeconômico: um estudo aplicado aos municípios de Minas Gerais",
+      "journal": "REGE Revista de Gestão",
+      "doi": "10.5700/rege564",
+      "publisher_or_index_url": "https://revistas.usp.br/rege/pt_BR/article/view/111466",
+      "verified_peer_review_evidence": "A página oficial da REGE informa que manuscritos adequados são enviados a pelo menos dois pareceristas independentes em double-blind peer review: https://revistas.usp.br/rege/pt_BR/about/submissions; o registro oficial do artigo e o Crossref confirmam periódico, volume/issue e DOI.",
+      "finding_and_relevance": "Usando painel para estimar receita tributária potencial, o artigo encontra baixo esforço fiscal e alta dependência do FPM, sobretudo em municípios pequenos e pouco industrializados; dependência do FPM correlaciona-se negativamente com esforço fiscal e desenvolvimento, enquanto esforço fiscal se correlaciona positivamente com desenvolvimento. É diretamente útil para construir indicadores de autonomia própria e comparar a estrutura de receitas dos dois municípios gaúchos."
+    },
+    {
+      "authors": "Márcia Miranda Soares; Bruno Guimarães de Melo",
+      "year": 2016,
+      "title": "Condicionantes políticos e técnicos das transferências voluntárias da União aos municípios brasileiros",
+      "journal": "Revista de Administração Pública",
+      "doi": "10.1590/0034-7612138727",
+      "publisher_or_index_url": "https://www.scielo.br/j/rap/a/SPMSQVNnSNnkzKCJpZsFvNb/abstract/?lang=pt",
+      "verified_peer_review_evidence": "O registro oficial SciELO identifica o texto como Artigo da RAP e exibe o DOI; a política editorial oficial da RAP informa dois avaliadores em revisão por pares duplo-cega: https://www.scielo.br/journal/rap/about/.",
+      "finding_and_relevance": "Na análise de transferências voluntárias da União a municípios entre 1995 e 2010, municípios com prefeitos alinhados ao presidente/base aliada e com maior receita tributária própria receberam mais recursos; as TVU não foram redistributivas, mas políticas e técnicas. O resultado é relevante para separar autonomia de receitas próprias de dependência de transferências discricionárias."
+    },
+    {
+      "authors": "José da Assunção Moutinho",
+      "year": 2016,
+      "title": "Transferências voluntárias da União para municípios brasileiros: mapeamento do cenário nacional",
+      "journal": "Revista de Administração Pública",
+      "doi": "10.1590/0034-7612139003",
+      "publisher_or_index_url": "https://periodicos.fgv.br/rap/article/view/58581",
+      "verified_peer_review_evidence": "A página oficial da RAP identifica o artigo e sua publicação; a política editorial do periódico estabelece dois avaliadores em sistema double-blind peer review: https://www.scielo.br/journal/rap/about/.",
+      "finding_and_relevance": "O mapeamento documental nacional mostra distribuição heterogênea das transferências voluntárias e taxa de liberação maior para emendas parlamentares do que para editais ministeriais. Serve para qualificar a parcela discricionária das receitas municipais e discutir por que autonomia orçamentária não se reduz ao volume agregado de transferências."
+    },
+    {
+      "authors": "Alexandre Lima Baião; Armando Santos Moreira da Cunha; Flavio Sergio Rezende Nunes de Souza",
+      "year": 2017,
+      "title": "Papel das transferências intergovernamentais na equalização fiscal dos municípios brasileiros",
+      "journal": "Revista do Serviço Público",
+      "doi": "10.21874/rsp.v68i3.1406",
+      "publisher_or_index_url": "https://revista.enap.gov.br/index.php/RSP/article/view/1406",
+      "verified_peer_review_evidence": "A página oficial da ENAP identifica o texto na seção Artigos, fornece DOI e metadados; a política de submissão da RSP descreve revisão por pares duplo-cega por dois especialistas externos para manuscritos finais: https://revista.enap.gov.br/index.php/RSP/about/submissions.",
+      "finding_and_relevance": "O estudo avalia a equalização levando em conta capacidade de autofinanciamento e necessidades fiscais: o FPM, embora redistributivo, contribui pouco; Fundeb produz efeito positivo; transferências voluntárias são relativamente neutras e politizadas. É particularmente adequado para operacionalizar autonomia de receitas, equalização e dependência intergovernamental em municípios de fronteira e de menor escala."
+    },
+    {
+      "authors": "Cleyde Cristina Rodrigues Caetano; Lucimar Antônio Cabral de Ávila; Marcelo Tavares",
+      "year": 2017,
+      "title": "A relação entre as transferências governamentais, a arrecadação tributária própria e o índice de educação dos municípios do estado de Minas Gerais",
+      "journal": "Revista de Administração Pública",
+      "doi": "10.1590/0034-7612174433",
+      "publisher_or_index_url": "https://www.scielo.br/j/rap/a/ykQZM8dBwM7BJkkdjLBzggD/",
+      "verified_peer_review_evidence": "A página oficial SciELO identifica o texto como Artigo da RAP, exibe o DOI e a citação completa; a política editorial da RAP confirma avaliação por dois pareceristas em double-blind peer review: https://www.scielo.br/journal/rap/about/.",
+      "finding_and_relevance": "Com dados de municípios mineiros de 2009–2013 e métodos de correlação, clusters e regressão, o artigo não encontra associação entre grau de autonomia financeira e investimento em educação, nem efeito claro da receita tributária e do investimento adicional sobre o índice educacional. É útil como evidência empírica de que maior receita própria não garante automaticamente melhor resultado do gasto público municipal."
+    },
+    {
+      "authors": "Luis Alberto da Costa; Napiê Galvê Araújo Silva; Vilmar Antonio Gonçalves Tondolo; Lauro Nogueira",
+      "year": 2024,
+      "title": "Análise do efeito redistributivo das transferências intergovernamentais sobre as receitas municipais no semiárido brasileiro",
+      "journal": "Revista de Administração Pública",
+      "doi": "10.1590/0034-761220240010",
+      "publisher_or_index_url": "https://periodicos.fgv.br/rap/article/view/92256",
+      "verified_peer_review_evidence": "A página oficial do editor publica o artigo e seu resumo, enquanto o registro SciELO/Crossref confirma volume, ano, lista de autores e DOI; a política editorial oficial da RAP estabelece dois avaliadores em revisão por pares duplo-cega: https://www.scielo.br/journal/rap/about/.",
+      "finding_and_relevance": "Na análise quantitativa dos 5.570 municípios, transferências devolutivas e compensatórias não equalizam receitas e tendem a beneficiar municípios mais desenvolvidos; as redistributivas têm baixa contribuição, enquanto as condicionadas reduzem disparidades e favorecem municípios menos desenvolvidos. É o paralelo empírico mais próximo para discutir desigualdades territoriais, composição da receita corrente e autonomia fiscal de Bagé e Sant'Ana do Livramento."
+    }
+  ],
+  "notes": "Foram selecionados exatamente 8 artigos de periódicos, sem livros, teses, working papers ou anais. Todos os DOI foram conferidos em registros Crossref e/ou nas páginas oficiais do editor/SciELO/USP/ENAP. A REGE exibe na página migrada a data de publicação 26/02/2016, mas Crossref e o fascículo 22(3) registram o artigo no ano de 2015; por isso year=2015. Amorim Neto e Simonassi analisam sobretudo transferências federais aos estados, não apenas municípios, mas foram mantidos por sua evidência empírica central sobre determinantes políticos e equidade no federalismo fiscal brasileiro. Nenhum artigo é específico para Bagé ou Santana do Livramento; a utilidade é teórica e comparativa para a análise municipal proposta."
+}

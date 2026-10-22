@@ -1,0 +1,16 @@
+{
+  "topic": "Artigo de referência metodológica indicado pelo professor",
+  "articles": [
+    {
+      "authors": "Andrew C. Baker; David F. Larcker; Charles C. Y. Wang",
+      "year": 2022,
+      "title": "How Much Should We Trust Staggered Difference-in-Differences Estimates?",
+      "journal": "Journal of Financial Economics",
+      "doi": "10.1016/j.jfineco.2022.01.004",
+      "publisher_or_index_url": "https://doi.org/10.1016/j.jfineco.2022.01.004",
+      "verified_peer_review_evidence": "O artigo foi publicado no Journal of Financial Economics pela Elsevier. A página editorial do periódico descreve o processo de revisão e a versão de registro confirma o DOI, título, autoria, periódico e publicação como artigo de periódico.",
+      "finding_and_relevance": "Examina a confiança em estimadores de diferenças-em-diferenças com adoção escalonada e documenta sua prevalência em estudos de finanças e contabilidade; os autores relatam 751 estudos em dez periódicos entre 2000 e 2019, dos quais 366 (49%) usavam adoção escalonada. O artigo foi indicado pelo professor como referência de apresentação; aqui informa apenas o formato do estudo bibliométrico e não fornece evidência sobre os municípios analisados."
+    }
+  ],
+  "notes": "DOI, metadados e estatística introdutória foram previamente conferidos na página editorial/DOI e no working paper aberto citado em docs/fontes_consultadas.md. O artigo é tratado como fonte metodológica e pode integrar a contagem somente se efetivamente citado entre os 80 artigos do corpus."
+}

@@ -1,0 +1,86 @@
+{
+  "topic": "Desigualdade regional, desenvolvimento local e diferenças fiscais entre municípios brasileiros",
+  "articles": [
+    {
+      "authors": "Alexandre Lima Baião; Armando Santos Moreira da Cunha; Flavio Sergio Rezende Nunes de Souza",
+      "year": 2017,
+      "title": "Papel das transferências intergovernamentais na equalização fiscal dos municípios brasileiros",
+      "journal": "Revista do Serviço Público",
+      "doi": "10.21874/rsp.v68i3.1406",
+      "publisher_or_index_url": "https://revista.enap.gov.br/index.php/RSP/article/view/1406",
+      "verified_peer_review_evidence": "A página oficial do artigo identifica autores, volume 68(3), 2017 e o DOI. A política oficial de submissão da RSP informa avaliação final por pares duplo-cega, com dois especialistas externos (https://revista.enap.gov.br/index.php/RSP/about/submissions); o DOI e o tipo journal-article também foram conferidos no registro Crossref (https://api.crossref.org/works/10.21874/rsp.v68i3.1406).",
+      "finding_and_relevance": "Com dados sobre a heterogeneidade econômica e social dos municípios, o artigo mostra que o FPM contribui pouco para a equalização, enquanto o Fundeb produz efeito positivo; transferências voluntárias são relativamente neutras e provavelmente condicionadas por fatores políticos. É referência central para comparar equalização, dependência de transferências e autonomia fiscal de Bagé e Sant'Ana do Livramento."
+    },
+    {
+      "authors": "Luis Alberto da Costa; Napiê Galvê Araújo Silva; Vilmar Antonio Gonçalves Tondolo; Lauro Nogueira",
+      "year": 2024,
+      "title": "Análise do efeito redistributivo das transferências intergovernamentais sobre as receitas municipais no semiárido brasileiro",
+      "journal": "Revista de Administração Pública",
+      "doi": "10.1590/0034-761220240010",
+      "publisher_or_index_url": "https://periodicos.fgv.br/rap/article/view/92256",
+      "verified_peer_review_evidence": "A página oficial da RAP apresenta o artigo, seus autores, resumo e publicação. A política editorial da RAP estabelece que, após a triagem, dois avaliadores analisam os artigos em revisão por pares duplo-cega (https://periodicos.fgv.br/rap/politicaeditorial); DOI, autores e tipo journal-article foram conferidos no Crossref (https://api.crossref.org/works/10.1590/0034-761220240010).",
+      "finding_and_relevance": "Analisando os 5.570 municípios, o estudo conclui que transferências devolutivas e compensatórias tendem a favorecer municípios mais desenvolvidos, as redistributivas reduzem pouco as disparidades entre semiárido e restante do país, e as condicionadas equalizam mais. Oferece desenho comparativo útil para investigar diferenças territoriais de receitas correntes e transferências no RS."
+    },
+    {
+      "authors": "Luis Alberto da Costa; Napiê Galvê Araújo Silva; Vilmar Antonio Gonçalves Tondolo; Lauro Nogueira",
+      "year": 2025,
+      "title": "Indicadores socioeconômicos e receitas municipais: fatores explicativos da capacidade fiscal dos municípios brasileiros",
+      "journal": "Revista de Administração Pública",
+      "doi": "10.1590/0034-761220240085",
+      "publisher_or_index_url": "https://periodicos.fgv.br/rap/article/view/92894",
+      "verified_peer_review_evidence": "A página oficial da RAP identifica o artigo e disponibiliza seu resumo. A política editorial oficial informa avaliação por dois pareceristas em sistema duplo-cego (https://periodicos.fgv.br/rap/politicaeditorial); o DOI, a autoria, o ano e o tipo journal-article foram conferidos no registro Crossref (https://api.crossref.org/works/10.1590/0034-761220240085).",
+      "finding_and_relevance": "Com painel de 5.570 municípios entre 2005 e 2020, o artigo encontra efeitos positivos de PIB per capita, renda média, Ideb, serviços no PIB e funcionários públicos per capita sobre receitas próprias e receitas ligadas à atividade econômica; a arrecadação passada também importa. É diretamente útil para especificar determinantes da capacidade fiscal e do desenvolvimento local nos dois municípios fronteiriços."
+    },
+    {
+      "authors": "Pedro Jorge Holanda Figueiredo Alves; Jevuks Matheus Araujo",
+      "year": 2024,
+      "title": "The effects of intergovernmental transfers on the local fiscal incentives of Brazilian municipalities",
+      "journal": "Journal of Government and Economics",
+      "doi": "10.1016/j.jge.2024.100104",
+      "publisher_or_index_url": "https://www.sciencedirect.com/science/article/pii/S2667319324000089",
+      "verified_peer_review_evidence": "O registro do editor/DOI na Elsevier identifica o artigo, autores, volume 13 (2024) e o DOI; a página oficial do periódico declara que o Journal of Government and Economics é um periódico de acesso aberto revisado por pares (https://www.sciencedirect.com/journal/journal-of-government-and-economics/publish/open-access-options). O registro Crossref confirma DOI e tipo journal-article (https://api.crossref.org/works/10.1016/j.jge.2024.100104).",
+      "finding_and_relevance": "Usando os pontos de corte do FPM e regressão descontínua para 2013–2016, o estudo encontra que receita exógena adicional aumenta gastos administrativos e de esporte/lazer, possivelmente via cargos comissionados, sem aumento detectado nos gastos com saúde ou educação. É relevante para testar incentivos e composição da despesa municipal após transferências intergovernamentais."
+    },
+    {
+      "authors": "Helton C. de Paula; Maria M. Pinho",
+      "year": 2023,
+      "title": "The efficiency of public policies and the autonomy cost in Brazilian municipalities",
+      "journal": "RAM. Revista de Administração Mackenzie",
+      "doi": "10.1590/1678-6971/eramf230196.en",
+      "publisher_or_index_url": "https://www.scielo.br/j/ram/a/9ZK4sxbDFJxBhbzcywj5nkN/?lang=en&format=html",
+      "verified_peer_review_evidence": "A página SciELO do artigo apresenta resumo, resultados e o DOI. A política oficial da RAM descreve três etapas editoriais e, na segunda, revisão anônima duplo-cega por avaliadores ad hoc de áreas especializadas (https://new.scielo.br/journal/ram/about/?ilang=en); o registro Crossref confirma DOI, autores, ano e tipo journal-article (https://api.crossref.org/works/10.1590/1678-6971/eramf230196.en).",
+      "finding_and_relevance": "O índice de custo da autonomia mostra que cerca de um em cada quatro municípios observados não gera receita suficiente para custear sua existência; o desempenho é pior no Norte e Nordeste e melhora com população e atividade empresarial. O artigo fornece medida operacional de autonomia fiscal para comparar municípios pequenos e dependência de transferências."
+    },
+    {
+      "authors": "Márcio Marconato; José Luiz Parré; Marcio Henrique Coelho",
+      "year": 2021,
+      "title": "Dinâmica financeira dos municípios brasileiros",
+      "journal": "Revista de Administração Pública",
+      "doi": "10.1590/0034-761220200041",
+      "publisher_or_index_url": "https://periodicos.fgv.br/rap/article/view/83354",
+      "verified_peer_review_evidence": "A página oficial da RAP apresenta o artigo e seu resumo. A política editorial da revista estabelece que dois avaliadores analisam os artigos em revisão por pares duplo-cega (https://periodicos.fgv.br/rap/politicaeditorial); o registro Crossref confirma DOI, autores, 2021 e tipo journal-article (https://api.crossref.org/works/10.1590/0034-761220200041).",
+      "finding_and_relevance": "Com painel de municípios brasileiros entre 2002 e 2016, o QREF piora com despesas elevadas de pessoal; melhores resultados aparecem onde o PIB per capita é maior e onde predominam agricultura e serviços, enquanto municípios pequenos e industriais têm desempenho pior. É uma base empírica para comparar receitas, despesas, porte, estrutura produtiva e choques fiscais locais."
+    },
+    {
+      "authors": "Márcia Miranda Soares; Bruno Guimarães de Melo",
+      "year": 2016,
+      "title": "Condicionantes políticos e técnicos das transferências voluntárias da União aos municípios brasileiros",
+      "journal": "Revista de Administração Pública",
+      "doi": "10.1590/0034-7612138727",
+      "publisher_or_index_url": "https://www.scielo.br/j/rap/a/SPMSQVNnSNnkzKCJpZsFvNb/?lang=en",
+      "verified_peer_review_evidence": "A página SciELO do artigo apresenta o resumo e o estudo publicado na RAP. A política editorial oficial da RAP exige, após a triagem, avaliação por dois pareceristas em revisão duplo-cega (https://periodicos.fgv.br/rap/politicaeditorial); DOI e tipo journal-article foram conferidos no Crossref (https://api.crossref.org/works/10.1590/0034-7612138727).",
+      "finding_and_relevance": "Analisando transferências voluntárias da União por convênios entre 1995 e 2010, o artigo conclui que elas não são redistributivas: beneficiam mais municípios com prefeitos alinhados ao presidente, maior votação presidencial e maior receita própria, indicador de riqueza/capacidade técnica. Ajuda a separar critérios políticos, técnicos e redistributivos ao interpretar transferências para os municípios estudados."
+    },
+    {
+      "authors": "Wesley de Almeida Mendes; Marco Aurélio Marques Ferreira; Evandro Rodrigues de Faria; Luiz Antônio Abrantes",
+      "year": 2020,
+      "title": "Desenvolvimento humano e desigualdades regionais nos municípios brasileiros",
+      "journal": "Latin American Research Review",
+      "doi": "10.25222/larr.555",
+      "publisher_or_index_url": "https://www.cambridge.org/core/journals/latin-american-research-review/article/desenvolvimento-humano-e-desigualdades-regionais-nos-municipios-brasileiros/51F3C2198018401975C41A1BB4D8EA32",
+      "verified_peer_review_evidence": "A página oficial da Cambridge identifica o artigo no volume 55, número 4, publicado em 22 de dezembro de 2020, e fornece o DOI. A página de informações da LARR declara que todos os artigos, exceto resenhas de livros e filmes, passam por revisão duplo-cega (https://www.cambridge.org/core/journals/latin-american-research-review/information/about-this-journal); o registro Crossref confirma DOI e tipo journal-article (https://api.crossref.org/works/10.25222/larr.555).",
+      "finding_and_relevance": "Aplicando análise fatorial e regressão logística multinomial a todos os municípios e regiões, o estudo mostra que municípios menos desenvolvidos precisam priorizar emprego/vulnerabilidade e saneamento/habitação, e que desigualdades regionais implicam necessidades distintas de serviços públicos. É útil para ligar capacidade fiscal e provisão de serviços a resultados de desenvolvimento local, sem presumir que uma política uniforme sirva a Bagé e Sant'Ana do Livramento."
+    }
+  ],
+  "notes": "Foram selecionados exatamente oito artigos de periódicos, sem livros, teses, working papers ou artigos de conferência. Todos foram conferidos como registros Crossref do tipo journal-article, com DOI resolvível, e as páginas de origem/editor/indexador foram abertas; as políticas dos respectivos periódicos fornecem evidência de revisão por pares. Não há item não confirmado. Para o artigo da LARR, a página da Cambridge fixa a publicação no fascículo de 22/12/2020 (volume 55, n. 4); o Crossref também exibe uma data de publicação online posterior (2022), provavelmente relacionada à indexação/versão eletrônica, por isso foi usado 2020, o ano do fascículo e da página do editor. Nenhum dos oito é estudo específico de Bagé, Santana do Livramento ou Chile; sua utilidade para esse desenho é comparativa e de construção de variáveis/hipóteses."
+}

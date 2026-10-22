@@ -1,0 +1,206 @@
+{
+  "retrieval_timestamp_utc": "2026-10-21T21:06:01.131534+00:00",
+  "analysis_period": [
+    2015,
+    2024
+  ],
+  "municipalities": {
+    "4301602": "Bage_RS",
+    "4317103": "Santana_do_Livramento_RS"
+  },
+  "siconfi_api": "https://apidatalake.tesouro.gov.br/docs/siconfi/",
+  "siconfi_rate_limit_respected_seconds": 1.1,
+  "siconfi_delivery_status": [
+    {
+      "ano": 2015,
+      "codigo_ibge": 4301602,
+      "municipio": "Bage_RS",
+      "dca_registros": 1,
+      "status_relatorio": "HO",
+      "data_status": "2016-04-29T10:46:11Z",
+      "forma_envio": "P"
+    },
+    {
+      "ano": 2015,
+      "codigo_ibge": 4317103,
+      "municipio": "Santana_do_Livramento_RS",
+      "dca_registros": 1,
+      "status_relatorio": "HO",
+      "data_status": "2016-07-22T22:30:26Z",
+      "forma_envio": "P"
+    },
+    {
+      "ano": 2016,
+      "codigo_ibge": 4301602,
+      "municipio": "Bage_RS",
+      "dca_registros": 1,
+      "status_relatorio": "HO",
+      "data_status": "2017-04-28T11:26:35Z",
+      "forma_envio": "P"
+    },
+    {
+      "ano": 2016,
+      "codigo_ibge": 4317103,
+      "municipio": "Santana_do_Livramento_RS",
+      "dca_registros": 1,
+      "status_relatorio": "HO",
+      "data_status": "2017-04-27T12:07:00Z",
+      "forma_envio": "P"
+    },
+    {
+      "ano": 2017,
+      "codigo_ibge": 4301602,
+      "municipio": "Bage_RS",
+      "dca_registros": 1,
+      "status_relatorio": "HO",
+      "data_status": "2018-04-23T10:27:46Z",
+      "forma_envio": "P"
+    },
+    {
+      "ano": 2017,
+      "codigo_ibge": 4317103,
+      "municipio": "Santana_do_Livramento_RS",
+      "dca_registros": 1,
+      "status_relatorio": "HO",
+      "data_status": "2018-04-24T08:05:55Z",
+      "forma_envio": "P"
+    },
+    {
+      "ano": 2018,
+      "codigo_ibge": 4301602,
+      "municipio": "Bage_RS",
+      "dca_registros": 1,
+      "status_relatorio": "HO",
+      "data_status": "2019-05-02T16:37:09Z",
+      "forma_envio": "P"
+    },
+    {
+      "ano": 2018,
+      "codigo_ibge": 4317103,
+      "municipio": "Santana_do_Livramento_RS",
+      "dca_registros": 1,
+      "status_relatorio": "HO",
+      "data_status": "2019-04-29T12:05:00Z",
+      "forma_envio": "P"
+    },
+    {
+      "ano": 2019,
+      "codigo_ibge": 4301602,
+      "municipio": "Bage_RS",
+      "dca_registros": 1,
+      "status_relatorio": "HO",
+      "data_status": "2020-05-13T12:28:53Z",
+      "forma_envio": "M"
+    },
+    {
+      "ano": 2019,
+      "codigo_ibge": 4317103,
+      "municipio": "Santana_do_Livramento_RS",
+      "dca_registros": 1,
+      "status_relatorio": "RE",
+      "data_status": "2020-04-30T10:50:57Z",
+      "forma_envio": "M"
+    },
+    {
+      "ano": 2020,
+      "codigo_ibge": 4301602,
+      "municipio": "Bage_RS",
+      "dca_registros": 1,
+      "status_relatorio": "HO",
+      "data_status": "2021-05-03T13:54:51Z",
+      "forma_envio": "M"
+    },
+    {
+      "ano": 2020,
+      "codigo_ibge": 4317103,
+      "municipio": "Santana_do_Livramento_RS",
+      "dca_registros": 1,
+      "status_relatorio": "HO",
+      "data_status": "2021-04-29T16:47:48Z",
+      "forma_envio": "M"
+    },
+    {
+      "ano": 2021,
+      "codigo_ibge": 4301602,
+      "municipio": "Bage_RS",
+      "dca_registros": 1,
+      "status_relatorio": "HO",
+      "data_status": "2022-04-29T09:14:55Z",
+      "forma_envio": "M"
+    },
+    {
+      "ano": 2021,
+      "codigo_ibge": 4317103,
+      "municipio": "Santana_do_Livramento_RS",
+      "dca_registros": 1,
+      "status_relatorio": "HO",
+      "data_status": "2022-04-29T11:20:08Z",
+      "forma_envio": "M"
+    },
+    {
+      "ano": 2022,
+      "codigo_ibge": 4301602,
+      "municipio": "Bage_RS",
+      "dca_registros": 1,
+      "status_relatorio": "RE",
+      "data_status": "2023-10-06T08:58:51Z",
+      "forma_envio": "M"
+    },
+    {
+      "ano": 2022,
+      "codigo_ibge": 4317103,
+      "municipio": "Santana_do_Livramento_RS",
+      "dca_registros": 1,
+      "status_relatorio": "HO",
+      "data_status": "2023-04-28T21:48:26Z",
+      "forma_envio": "M"
+    },
+    {
+      "ano": 2023,
+      "codigo_ibge": 4301602,
+      "municipio": "Bage_RS",
+      "dca_registros": 1,
+      "status_relatorio": "HO",
+      "data_status": "2024-04-30T11:48:29Z",
+      "forma_envio": "M"
+    },
+    {
+      "ano": 2023,
+      "codigo_ibge": 4317103,
+      "municipio": "Santana_do_Livramento_RS",
+      "dca_registros": 1,
+      "status_relatorio": "HO",
+      "data_status": "2024-04-30T13:03:26Z",
+      "forma_envio": "M"
+    },
+    {
+      "ano": 2024,
+      "codigo_ibge": 4301602,
+      "municipio": "Bage_RS",
+      "dca_registros": 1,
+      "status_relatorio": "HO",
+      "data_status": "2025-04-14T11:39:13Z",
+      "forma_envio": "M"
+    },
+    {
+      "ano": 2024,
+      "codigo_ibge": 4317103,
+      "municipio": "Santana_do_Livramento_RS",
+      "dca_registros": 1,
+      "status_relatorio": "HO",
+      "data_status": "2025-04-30T10:16:43Z",
+      "forma_envio": "M"
+    }
+  ],
+  "sidra_sources": {
+    "populacao_2015_2024.json": "https://apisidra.ibge.gov.br/values/t/6579/n6/4301602,4317103/v/9324/p/2015-2024?formato=json",
+    "pib_municipal_2015_2023.json": "https://apisidra.ibge.gov.br/values/t/5938/n6/4301602,4317103/v/all/p/2015-2023?formato=json",
+    "ipca_indice_2015_2024.json": "https://apisidra.ibge.gov.br/values/t/1737/n1/1/v/2266/p/201501-202412?formato=json"
+  },
+  "notes": [
+    "DCA (Anexo I-C) e DCA (Anexo I-D) foram coletadas separadamente para cada município e ano.",
+    "As contas anuais sem declaração homologada devem ser tratadas como ausentes, nunca como zero.",
+    "A população anual para per capita vem do IBGE/SIDRA, não do campo populacional constante no Siconfi.",
+    "A série de PIB municipal do IBGE tem cobertura mais curta que a série fiscal e será identificada como tal."
+  ]
+}

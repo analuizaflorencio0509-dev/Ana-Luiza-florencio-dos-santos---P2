@@ -1,0 +1,86 @@
+{
+  "topic": "Esforço arrecadatório, capacidade fiscal própria e determinantes socioeconômicos dos municípios",
+  "articles": [
+    {
+      "authors": "Luis Alberto da Costa; Napiê Galvê Araújo Silva; Vilmar Antonio Gonçalves Tondolo; Lauro Nogueira",
+      "year": 2025,
+      "title": "Indicadores socioeconômicos e receitas municipais: fatores explicativos da capacidade fiscal dos municípios brasileiros",
+      "journal": "Revista de Administração Pública",
+      "doi": "10.1590/0034-761220240085",
+      "publisher_or_index_url": "https://periodicos.fgv.br/rap/article/view/92894",
+      "verified_peer_review_evidence": "A página oficial da RAP/SciELO descreve o processo: dois avaliadores analisam os artigos em revisão por pares duplo-cega; a página do artigo informa volume 59 (2025), e o registro Crossref confirma o DOI e o tipo journal-article (https://api.crossref.org/works/10.1590/0034-761220240085).",
+      "finding_and_relevance": "Com painel de 5.570 municípios brasileiros (2005–2020), o estudo mostra que PIB per capita, renda média, Ideb, participação dos serviços no PIB e funcionários públicos per capita explicam positivamente receitas próprias e receitas ligadas à atividade econômica local. É a evidência mais diretamente alinhada ao eixo para operacionalizar determinantes socioeconômicos e capacidade fiscal própria em Bagé e Sant'Ana do Livramento."
+    },
+    {
+      "authors": "Fernando Antonio Slaibe Postali",
+      "year": 2015,
+      "title": "Tax effort and oil royalties in the Brazilian municipalities",
+      "journal": "EconomiA",
+      "doi": "10.1016/j.econ.2015.08.001",
+      "publisher_or_index_url": "https://doi.org/10.1016/j.econ.2015.08.001",
+      "verified_peer_review_evidence": "A página oficial da EconomiA/Emerald define o veículo como periódico acadêmico revisado por pares e informa revisão duplo-anônima por pelo menos dois revisores independentes; Crossref confirma o DOI, o título, o periódico e o tipo journal-article (https://api.crossref.org/works/10.1016/j.econ.2015.08.001).",
+      "finding_and_relevance": "Usando fronteira estocástica e painel de municípios brasileiros (2002–2011), o artigo encontra que royalties do petróleo reduzem a eficiência arrecadatória estimada, sinalizando menor esforço fiscal dos beneficiários. É útil para distinguir receita extraordinária/transferida de esforço próprio e discutir incentivos fiscais locais."
+    },
+    {
+      "authors": "Pedro Jorge Holanda Figueiredo Alves; Jevuks Matheus Araujo",
+      "year": 2024,
+      "title": "The effects of intergovernmental transfers on the local fiscal incentives of Brazilian municipalities",
+      "journal": "Journal of Government and Economics",
+      "doi": "10.1016/j.jge.2024.100104",
+      "publisher_or_index_url": "https://doi.org/10.1016/j.jge.2024.100104",
+      "verified_peer_review_evidence": "O registro Crossref confirma DOI, autores, periódico e tipo journal-article (https://api.crossref.org/works/10.1016/j.jge.2024.100104); a página oficial do Journal of Government and Economics, na ScienceDirect, identifica o processo editorial com decisão após revisão e a plataforma como literatura acadêmica revisada por pares (https://www.sciencedirect.com/journal/journal-of-government-and-economics).",
+      "finding_and_relevance": "Explorando os cortes exógenos do Fundo de Participação dos Municípios e desenho de regressão descontínua (2013–2016), o artigo conclui que receita exógena elevou sobretudo gastos administrativos e de esporte/lazer, associados a cargos comissionados, sugerindo uma mudança na composição do gasto associada às transferências. Ajuda a analisar como transferências alteram despesa, autonomia efetiva e incentivos à arrecadação municipal no Brasil."
+    },
+    {
+      "authors": "Carla Alberti; Diego Díaz-Rioseco; Ignacio Riveros",
+      "year": 2023,
+      "title": "Do Fiscal Transfers Affect Local Democracy? Lessons from Chilean Municipalities",
+      "journal": "Latin American Politics and Society",
+      "doi": "10.1017/lap.2023.16",
+      "publisher_or_index_url": "https://www.cambridge.org/core/journals/latin-american-politics-and-society/article/do-fiscal-transfers-affect-local-democracy-lessons-from-chilean-municipalities/6AEC8F7C0FA1EC36263FF5012CBBF8EC",
+      "verified_peer_review_evidence": "A página oficial da Cambridge classifica o texto como Research Article e informa o DOI; a página oficial de revisão do periódico declara modelo double-anonymous peer review (https://www.cambridge.org/core/journals/latin-american-politics-and-society/information/peer-review-information), e Crossref confirma o tipo journal-article (https://api.crossref.org/works/10.1017/lap.2023.16).",
+      "finding_and_relevance": "Com dados administrativos de municípios chilenos, o estudo separa a parcela não tributária do Fondo Común Municipal e mostra efeitos sobre voto do incumbente, reeleição e competitividade eleitoral, sendo os efeitos de reeleição/competitividade eliminados com a medida mais precisa de renda não tributária. É diretamente relevante ao eixo Chile–municípios por tratar do principal mecanismo de transferência e da distinção entre recursos próprios e transferidos."
+    },
+    {
+      "authors": "Yongzheng Liu; Jianmei Zhao",
+      "year": 2011,
+      "title": "Intergovernmental fiscal transfers and local tax efforts: evidence from provinces in China",
+      "journal": "Journal of Economic Policy Reform",
+      "doi": "10.1080/17487870.2011.591175",
+      "publisher_or_index_url": "https://www.tandfonline.com/doi/full/10.1080/17487870.2011.591175",
+      "verified_peer_review_evidence": "A página oficial do Journal of Economic Policy Reform afirma que toda pesquisa do periódico é validada por revisão duplo-anônima (https://www.tandfonline.com/journals/gpre20/about-this-journal); Crossref confirma DOI, autores, ano, volume/páginas e tipo journal-article (https://api.crossref.org/works/10.1080/17487870.2011.591175).",
+      "finding_and_relevance": "Com painel provincial chinês de 1995–2007, o artigo encontra evidência significativa de que transferências centrais totais e subsídios de equalização reduzem o esforço tributário provincial, enquanto o efeito dos rebates tributários é teoricamente ambíguo. Oferece um teste empírico comparável para avaliar dependência de transferências e autonomia fiscal subnacional."
+    },
+    {
+      "authors": "Kai-yuen Tsui",
+      "year": 2005,
+      "title": "Local tax system, intergovernmental transfers and China's local fiscal disparities",
+      "journal": "Journal of Comparative Economics",
+      "doi": "10.1016/j.jce.2004.11.003",
+      "publisher_or_index_url": "https://www.sciencedirect.com/science/article/abs/pii/S014759670400099X",
+      "verified_peer_review_evidence": "A página do artigo na ScienceDirect o identifica como Research article, e o guia editorial do Journal of Comparative Economics o inclui na plataforma de literatura acadêmica revisada por pares (https://www.sciencedirect.com/journal/journal-of-comparative-economics/publish/guide-for-authors); Crossref confirma DOI, periódico, autor e tipo journal-article (https://api.crossref.org/works/10.1016/j.jce.2004.11.003).",
+      "finding_and_relevance": "Usando dados de todas as jurisdições de nível distrital/condado da China (1994–2000) e decomposição de desigualdade, o artigo mostra que o sistema tributário local e diferentes transferências contribuíram de modo desigual para disparidades fiscais, sem redução sustentada após a reforma de compartilhamento tributário. É uma referência fundacional para relacionar base tributária, transferências e desigualdade de capacidade de gasto entre governos locais."
+    },
+    {
+      "authors": "Saeid Mahdavi; Joakim Westerlund",
+      "year": 2018,
+      "title": "Subnational government tax revenue capacity and effort convergence: New evidence from sequential unit root tests",
+      "journal": "Economic Modelling",
+      "doi": "10.1016/j.econmod.2018.03.016",
+      "publisher_or_index_url": "https://www.sciencedirect.com/science/article/abs/pii/S0264999318302700",
+      "verified_peer_review_evidence": "A página oficial do artigo na ScienceDirect o identifica como Research article; a página do periódico o descreve como scholarly journal e registra decisão após revisão, enquanto Crossref confirma DOI, autores, periódico, volume/páginas e tipo journal-article (https://api.crossref.org/works/10.1016/j.econmod.2018.03.016).",
+      "finding_and_relevance": "Com dados dos 48 estados contíguos dos EUA, o estudo mede capacidade de receita e esforço via recursos tributáveis totais e testa convergência com testes de raiz unitária sequenciais, encontrando ausência de convergência geral em ambos. Serve como referência metodológica para comparar heterogeneidade persistente de capacidade e esforço entre municípios."
+    },
+    {
+      "authors": "Sean Nicholson-Crotty",
+      "year": 2008,
+      "title": "Fiscal Federalism and Tax Effort in the U.S. States",
+      "journal": "State Politics & Policy Quarterly",
+      "doi": "10.1177/153244000800800201",
+      "publisher_or_index_url": "https://journals.sagepub.com/doi/10.1177/153244000800800201",
+      "verified_peer_review_evidence": "A página oficial da Cambridge identifica State Politics & Policy Quarterly como periódico peer-reviewed publicado trimestralmente (https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly); Crossref confirma DOI, autor, periódico e tipo journal-article (https://api.crossref.org/works/10.1177/153244000800800201).",
+      "finding_and_relevance": "A análise dos estados norte-americanos entre 1971 e 1996 testa a hipótese de que grants federais pressionam para baixo o esforço tributário estadual, sob certas condições institucionais. É uma referência empírica fundacional para discutir como transferências intergovernamentais podem reduzir a mobilização de receita própria e a autonomia fiscal."
+    }
+  ],
+  "notes": "Foram selecionados exatamente 8 artigos de pesquisa publicados em periódicos; todos têm DOI confirmado em Crossref e/ou na página oficial do editor, e as páginas dos veículos fornecem evidência de revisão por pares. Não há DOI não confirmado. Os itens sobre China e Estados Unidos são evidências subnacionais comparativas (não estudos específicos de Bagé ou Santana do Livramento), incluídas por sua relevância teórica e empírica para capacidade, esforço e transferências; os três artigos brasileiros e o estudo chileno são os mais diretamente aplicáveis ao contexto proposto. Não foram usados livros, teses, working papers, relatórios oficiais ou artigos de conferência."
+}

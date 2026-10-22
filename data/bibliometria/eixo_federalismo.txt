@@ -1,0 +1,86 @@
+{
+  "topic": "Federalismo fiscal e descentralização: fundamentos, desenho institucional e evidência empírica",
+  "articles": [
+    {
+      "authors": "Wallace E. Oates",
+      "year": 1999,
+      "title": "An Essay on Fiscal Federalism",
+      "journal": "Journal of Economic Literature",
+      "doi": "10.1257/jel.37.3.1120",
+      "publisher_or_index_url": "https://www.aeaweb.org/articles?id=10.1257/jel.37.3.1120",
+      "verified_peer_review_evidence": "A página oficial da AEA identifica o Journal of Economic Literature e declara que publica guias analíticos comissionados e revisados por pares: https://www.aeaweb.org/journals/jel. A página do artigo confirma título, autoria, volume, páginas e DOI; o registro Crossref também o classifica como journal-article: https://api.crossref.org/works/10.1257%2Fjel.37.3.1120.",
+      "finding_and_relevance": "É uma revisão fundacional da teoria do federalismo fiscal: atribuição de funções, ganhos de bem-estar da descentralização, instrumentos fiscais, competição interjurisdicional e economia política. Oferece o marco conceitual para comparar receitas próprias, despesas, transferências e autonomia de Chile, Bagé e Sant'Ana do Livramento."
+    },
+    {
+      "authors": "Leonardo Letelier S.",
+      "year": 2005,
+      "title": "Explaining Fiscal Decentralization",
+      "journal": "Public Finance Review",
+      "doi": "10.1177/1091142104270910",
+      "publisher_or_index_url": "https://journals.sagepub.com/doi/10.1177/1091142104270910",
+      "verified_peer_review_evidence": "A página oficial da SAGE descreve Public Finance Review como periódico revisado por pares e publicado bimestralmente: https://journals.sagepub.com/home/pfr. A página do artigo e o registro Crossref confirmam DOI, autoria, periódico e o tipo journal-article: https://api.crossref.org/works/10.1177%2F1091142104270910.",
+      "finding_and_relevance": "Usa painel de 64 países para testar determinantes da descentralização; encontra efeitos de urbanização e renda per capita que variam conforme a função de gasto, inclusive saúde, educação e habitação. É útil para contextualizar empiricamente por que a autonomia/descentralização pode assumir desenhos diferentes no Chile e nos municípios brasileiros."
+    },
+    {
+      "authors": "Barry R. Weingast",
+      "year": 1995,
+      "title": "The Economic Role of Political Institutions: Market-Preserving Federalism and Economic Development",
+      "journal": "The Journal of Law, Economics, and Organization",
+      "doi": "10.1093/oxfordjournals.jleo.a036861",
+      "publisher_or_index_url": "https://academic.oup.com/jleo/article-abstract/11/1/1/814966",
+      "verified_peer_review_evidence": "As instruções oficiais da Oxford University Press afirmam expressamente que The Journal of Law, Economics, & Organization é um refereed journal e descrevem a avaliação por editores e revisores externos: https://academic.oup.com/jleo/pages/Submission_Online. A página do artigo e o registro Crossref confirmam o DOI, o periódico e a natureza de journal-article: https://api.crossref.org/works/10.1093%2Foxfordjournals.jleo.a036861.",
+      "finding_and_relevance": "Formula o desenho institucional do market-preserving federalism, enfatizando limites críveis ao poder central, autonomia subnacional e regras que preservam mercados. Serve como fundamento institucional para analisar se regras de receitas, transferências e competências criam incentivos compatíveis com autonomia e disciplina fiscal."
+    },
+    {
+      "authors": "Jonathan Rodden",
+      "year": 2002,
+      "title": "The Dilemma of Fiscal Federalism: Grants and Fiscal Performance around the World",
+      "journal": "American Journal of Political Science",
+      "doi": "10.2307/3088407",
+      "publisher_or_index_url": "https://www.jstor.org/stable/3088407",
+      "verified_peer_review_evidence": "A página oficial do AJPS identifica o periódico, sua associação editora e a publicação pela Wiley: https://ajps.org/about/. As diretrizes oficiais informam que manuscritos são submetidos a review, que trabalhos fora das regras não são enviados para avaliação e que materiais suplementares são encaminhados aos referees: https://ajps.org/guidelines-for-manuscripts/manuscript-preparation/. O registro Crossref confirma o DOI e o periódico: https://api.crossref.org/works/10.2307%2F3088407.",
+      "finding_and_relevance": "Analisa dados internacionais para mostrar como transferências, instituições fiscais e restrições orçamentárias afetam o desempenho fiscal subnacional, destacando o dilema entre financiamento por grants e responsabilidade fiscal. É diretamente relevante para avaliar dependência de transferências e incentivos à arrecadação própria em Chile, Bagé e Sant'Ana do Livramento."
+    },
+    {
+      "authors": "Takaaki Masaki",
+      "year": 2018,
+      "title": "The impact of intergovernmental transfers on local revenue generation in Sub-Saharan Africa: Evidence from Tanzania",
+      "journal": "World Development",
+      "doi": "10.1016/j.worlddev.2018.01.026",
+      "publisher_or_index_url": "https://doi.org/10.1016/j.worlddev.2018.01.026",
+      "verified_peer_review_evidence": "O guia oficial de autores do World Development declara processo de revisão duplo-cego, com avaliação independente por no mínimo dois revisores: https://www.sciencedirect.com/journal/world-development/publish/guide-for-authors. A página DOI do artigo é publicada pela Elsevier e apresenta o texto, seções econométricas e o resultado; Crossref confirma DOI, volume 106, páginas 173–186 e journal-article: https://api.crossref.org/works/10.1016%2Fj.worlddev.2018.01.026.",
+      "finding_and_relevance": "Com dados fiscais trimestrais e estimação econométrica para a Tanzânia, encontra que transferências intergovernamentais aumentam a mobilização de receitas locais, sobretudo em distritos rurais de baixa capacidade. O resultado oferece um contraponto empírico à hipótese de crowding-out e ajuda a interpretar como transferências podem afetar o esforço fiscal de municípios com capacidades distintas."
+    },
+    {
+      "authors": "Jinsol Park",
+      "year": 2022,
+      "title": "Fiscal Decentralization and the Composition of Local Government Expenditure: Evidence from South Korea",
+      "journal": "Public Finance Review",
+      "doi": "10.1177/10911421221093142",
+      "publisher_or_index_url": "https://journals.sagepub.com/doi/10.1177/10911421221093142",
+      "verified_peer_review_evidence": "A página oficial da SAGE declara que Public Finance Review é peer-reviewed: https://journals.sagepub.com/home/pfr. A página do artigo fornece o resumo e o registro Crossref confirma autoria, ano, periódico, páginas e DOI como journal-article: https://api.crossref.org/works/10.1177%2F10911421221093142.",
+      "finding_and_relevance": "Usando 224 governos locais sul-coreanos entre 2008 e 2018, encontra que a descentralização fiscal reduz a parcela de gasto social e desloca despesas da conta corrente para a de capital, com efeito concentrado no lado da receita. É útil para separar a análise de autonomia fiscal da análise de composição da despesa municipal."
+    },
+    {
+      "authors": "Agnese Sacchi; Simone Salotti",
+      "year": 2016,
+      "title": "A Comprehensive Analysis of Expenditure Decentralization and of the Composition of Local Public Spending",
+      "journal": "Regional Studies",
+      "doi": "10.1080/00343404.2014.893387",
+      "publisher_or_index_url": "https://www.tandfonline.com/doi/abs/10.1080/00343404.2014.893387",
+      "verified_peer_review_evidence": "A página oficial de Regional Studies declara que todos os artigos de pesquisa passam por triagem editorial e arbitragem anônima rigorosa por pelo menos dois revisores: https://www.tandfonline.com/journals/cres20/about-this-journal. O registro Crossref confirma os autores, o título, o periódico, DOI e publicação impressa no volume 50 de 2016: https://api.crossref.org/works/10.1080%2F00343404.2014.893387.",
+      "finding_and_relevance": "Estima modelos para 19 países desenvolvidos no período 1980–2006 e identifica renda regional, demografia e fatores políticos como determinantes da descentralização de categorias de gasto e de sua composição. Dá uma referência comparativa para estudar como desenho institucional e fatores políticos moldam as despesas de Bagé e Sant'Ana do Livramento."
+    },
+    {
+      "authors": "Leonardo Letelier S.; José L. Sáez-Lozano",
+      "year": 2024,
+      "title": "The Effect of Municipal Fiscal Decentralization on Subjective Well Being: The Case of Chile",
+      "journal": "Sage Open",
+      "doi": "10.1177/21582440241242649",
+      "publisher_or_index_url": "https://journals.sagepub.com/doi/10.1177/21582440241242649",
+      "verified_peer_review_evidence": "A página oficial do periódico declara que Sage Open é um periódico revisado por pares de acesso aberto e publica pesquisa original e revisões: https://journals.sagepub.com/home/sgo. A página SAGE e o registro Crossref confirmam os autores, o caso chileno, o volume 14, o artigo e o DOI: https://api.crossref.org/works/10.1177%2F21582440241242649.",
+      "finding_and_relevance": "Integra a pesquisa CASEN a informações municipais chilenas em modelo hierárquico e encontra efeito positivo da descentralização fiscal municipal sobre o bem-estar subjetivo, condicionado à representação política dos moradores. É a evidência mais diretamente aplicável ao componente chileno e sustenta discutir capacidade de receita própria, escolha de alíquotas do imposto predial e accountability local."
+    }
+  ],
+  "notes": "Foram selecionados exatamente 8 artigos distintos de periódicos, todos confirmados como registros journal-article e com DOI resolvível/registrado no Crossref ou na página do editor. O item de Masaki usa deliberadamente o DOI do artigo publicado em World Development (10.1016/j.worlddev.2018.01.026), não o DOI do WIDER Working Paper de título semelhante; a fonte WIDER foi usada apenas para conferir o resumo e não como veículo. Para Sacchi e Salotti, 2014 é a data de publicação online no Crossref, mas 2016 é o ano da publicação impressa no volume 50, adotado no campo year. Não há artigo não confirmado ou DOI genérico substituindo DOI ausente."
+}

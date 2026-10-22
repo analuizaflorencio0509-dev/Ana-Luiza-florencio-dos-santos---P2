@@ -1,0 +1,202 @@
+Registros incluídos: 80
+Fonte de metadados: OpenAlex, consultada por DOI.
+Os termos DE são keywords indexadas pelo OpenAlex, não necessariamente palavras-chave declaradas pelos autores.
+Bibliometrix: 5.5.0
+openalexR: 3.1.2
+
+$MainInformation
+ [1] "\n\nMAIN INFORMATION ABOUT DATA\n\n"                  "Timespan                              1994 : 2025 \n"
+ [3] "Sources (Journals, Books, etc)        57 \n"          "Documents                             80 \n"
+ [5] "Annual Growth Rate %                  2.26 \n"        "Document Average Age                  12.4 \n"
+ [7] "Average citations per doc             214.7 \n"       "Average citations per year per doc    16.26 \n"
+ [9] "References                            0 \n"           "\nDOCUMENT TYPES                     \n"
+[11] "article      80 \n"                                   "\nDOCUMENT CONTENTS\n"
+[13] "Keywords Plus (ID)                    177 \n"         "Author's Keywords (DE)                382 \n"
+[15] "\nAUTHORS\n"                                          "Authors                               165 \n"
+[17] "Author Appearances                    177 \n"         "Authors of single-authored docs       18 \n"
+[19] "\nAUTHORS COLLABORATION\n"                            "Single-authored docs                  18 \n"
+[21] "Documents per Author                  0.485 \n"       "Co-Authors per Doc                    2.21 \n"
+[23] "International co-authorships %        0 \n"           "\n"
+
+$MainInformationDF
+                          Description   Results
+1         MAIN INFORMATION ABOUT DATA
+2                            Timespan 1994:2025
+3      Sources (Journals, Books, etc)        57
+4                           Documents        80
+5                Annual Growth Rate %      2.26
+6                Document Average Age      12.4
+7           Average citations per doc     214.7
+8  Average citations per year per doc     16.26
+9                          References         0
+10                     DOCUMENT TYPES
+11                            article        80
+12                  DOCUMENT CONTENTS
+13                 Keywords Plus (ID)       177
+14             Author's Keywords (DE)       382
+15                            AUTHORS
+16                            Authors       165
+17                 Author Appearances       177
+18    Authors of single-authored docs        18
+19              AUTHORS COLLABORATION
+20               Single-authored docs        18
+21               Documents per Author     0.485
+22                 Co-Authors per Doc      2.21
+23     International co-authorships %         0
+24
+
+$AnnualProduction
+   Year    Articles
+1     1994        1
+2     1995        2
+3     1996        2
+4     1998        1
+5     1999        1
+6     2001        2
+7     2002        2
+8     2003        1
+9     2005        5
+10    2006        1
+11    2008        3
+12    2009        3
+13    2010        1
+14    2011        3
+15    2012        4
+16    2013        1
+17    2014        1
+18    2015        5
+19    2016        4
+20    2017        6
+21    2018        6
+22    2019        1
+23    2020        1
+24    2021        7
+25    2022        5
+26    2023        5
+27    2024        4
+28    2025        2
+
+$AnnualGrowthRate
+[1] 2.26
+
+$MostProdAuthors
+                     Authors        Articles                    Authors        Articles Fractionalized
+1  Leonardo Letelier S.                    3 Leonardo Letelier S.                                2.000
+2  Carlos Rosano-Peña                      2 Leonardo E. Letelier S.                             1.500
+3  Dusan Paredes                           2 Barry R. Weingast                                   1.000
+4  Enlinson Mattos                         2 Claudio Hamilton Matos dos Santos                   1.000
+5  Lauro Nogueira                          2 Dusan Paredes                                       1.000
+6  Leonardo E. Letelier S.                 2 Fernando Antonio Slaibe Postali                     1.000
+7  Lucimar Antônio Cabral de Ávila         2 Fernando Rezende                                    1.000
+8  Luis Alberto da Costa                   2 Jinsol Park                                         1.000
+9  Napiê Galvê Araújo Silva                2 Jonathan Rodden                                     1.000
+10 Pedro Henrique Melo Albuquerque         2 José da Assunção Moutinho                           1.000
+11 Vilmar Antonio Gonçalves Tondolo        2 Kai-yuen Tsui                                       1.000
+12 Abuzer Pinar                            1 Ligia Melo                                          1.000
+13 Adam Looney                             1 Marcos Mendes                                       1.000
+14 Agnese Sacchi                           1 Maria Escobar-Lemmon                                1.000
+15 Ajax Moreira                            1 Marie Kjaergaard                                    1.000
+16 Alejandro Corvalan                      1 Sean Nicholson-Crotty                               1.000
+17 Alexandre de Cássio Rodrigues           1 Takaaki Masaki                                      1.000
+18 Alexandre F. Alves                      1 Tulia G. Falleti                                    1.000
+19 Alexandre Lima Baião                    1 Wallace E. Oates                                    1.000
+20 Alicia Chavez                           1 Carlos Rosano-Peña                                  0.667
+
+$MostCitedPapers
+                                                                                                   Paper
+1  Wallace E. Oates, 1999, JOURNAL OF ECONOMIC LITERATURE
+2  Andrew C. Baker; David F. Larcker; Charles C. Y. Wang, 2022, JOURNAL OF FINANCIAL ECONOMICS
+3  Raj Chetty; Adam Looney; Kory Kroft, 2009, AMERICAN ECONOMIC REVIEW
+4  Barry R. Weingast, 1995, THE JOURNAL OF LAW, ECONOMICS, AND ORGANIZATION
+5  Jonathan Rodden, 2002, AMERICAN JOURNAL OF POLITICAL SCIENCE
+6  Tulia G. Falleti, 2005, AMERICAN POLITICAL SCIENCE REVIEW
+7  James E. Alt; David Dreyer Lassen, 2006, EUROPEAN ECONOMIC REVIEW
+8  Fernanda Brollo; Tommaso Nannicini, 2012, AMERICAN POLITICAL SCIENCE REVIEW
+9  Christopher Garman; Stephan Haggard; Eliza J. Willis, 2001, WORLD POLITICS
+10 Bernardino Benito; Francisco Bastida, 2009, PUBLIC ADMINISTRATION REVIEW
+11 Brian E. Dollery; Andrew C. Worthington, 1996, JOURNAL OF ECONOMIC SURVEYS
+12 Matz Dahlberg; Eva Mörk; Jørn Rattsø; Hanna Ågren, 2008, JOURNAL OF PUBLIC ECONOMICS
+13 Leonardo Letelier S., 2005, PUBLIC FINANCE REVIEW
+14 Stephen J. Bailey; Stephen Connolly, 1998, PUBLIC CHOICE
+15 Rupert Sausgruber; Jean-Robert Tyran, 2005, PUBLIC CHOICE
+16 Kai-yuen Tsui, 2005, JOURNAL OF COMPARATIVE ECONOMICS
+17 Flavia Peixoto Faria; Paulo de Martino Jannuzzi; Silvano José da Silva, 2008, REVISTA DE ADMINISTRAÇÃO PÚBLICA
+18 Alejandro Corvalan; Paulo Cox; Rodrigo Osorio, 2018, JOURNAL OF DEVELOPMENT ECONOMICS
+19 Takaaki Masaki, 2018, WORLD DEVELOPMENT
+20 Fernando Rezende, 1995, REVISTA DE ECONOMIA POLÍTICA / BRAZILIAN JOURNAL OF POLITICAL ECONOMY
+                                   DOI   TC TCperYear    NTC
+1  10.1257/jel.37.3.1120               3562    127.21 1.0000
+2  10.1016/j.jfineco.2022.01.004       3122    624.40 4.9212
+3  10.1257/aer.99.4.1145               2904    161.33 2.7439
+4  10.1093/oxfordjournals.jleo.a036861 2076     64.88 1.9339
+5  10.2307/3088407                      729     29.16 1.9009
+6  10.1017/s0003055405051695            631     28.68 2.9294
+7  10.1016/j.euroecorev.2005.04.001     584     27.81 1.0000
+8  10.1017/s0003055412000433            390     26.00 3.3191
+9  10.1353/wp.2001.0002                 349     13.42 1.6819
+10 10.1111/j.1540-6210.2009.01988.x     263     14.61 0.2485
+11 10.1111/j.1467-6419.1996.tb00014.x   210      6.77 1.7284
+12 10.1016/j.jpubeco.2007.05.004        204     10.74 1.8947
+13 10.1177/1091142104270910             153      6.95 0.7103
+14 10.1023/a:1005053921709              147      5.07 1.0000
+15 10.1007/s11127-005-3992-4            143      6.50 0.6639
+16 10.1016/j.jce.2004.11.003            114      5.18 0.5292
+17 10.1590/s0034-76122008000100008       99      5.21 0.9195
+18 10.1016/j.jdeveco.2018.01.001         94     10.44 2.0735
+19 10.1016/j.worlddev.2018.01.026        83      9.22 1.8309
+20 10.1590/0101-31571995-0834            71      2.22 0.0661
+
+$MostProdCountries
+NULL
+
+$TCperCountries
+NULL
+
+$MostRelSources
+                                   Sources        Articles
+1  REVISTA DE ADMINISTRAÇÃO PÚBLICA                      8
+2  PUBLIC CHOICE                                         5
+3  JOURNAL OF PUBLIC ECONOMICS                           4
+4  ECONOMIA APLICADA                                     3
+5  PUBLIC FINANCE REVIEW                                 3
+6  AMERICAN POLITICAL SCIENCE REVIEW                     2
+7  EUROPEAN JOURNAL OF POLITICAL ECONOMY                 2
+8  LOCAL GOVERNMENT STUDIES                              2
+9  REGIONAL STUDIES                                      2
+10 WORLD DEVELOPMENT                                     2
+11 AMERICAN ECONOMIC REVIEW                              1
+12 AMERICAN JOURNAL OF POLITICAL SCIENCE                 1
+13 CADERNOS SAÚDE COLETIVA                               1
+14 CIÊNCIA & SAÚDE COLETIVA                              1
+15 ECONOMIA                                              1
+16 ECONOMIA E SOCIEDADE                                  1
+17 ECONOMIC MODELLING                                    1
+18 ENVIRONMENT AND PLANNING A: ECONOMY AND SPACE         1
+19 ENVIRONMENT AND PLANNING C: POLITICS AND SPACE        1
+20 ESTUDOS ECONÔMICOS (SÃO PAULO)                        1
+
+$MostRelKeywords
+     Author Keywords (DE)      Articles          Keywords-Plus (ID)     Articles
+1  fiscal decentralization           24 Economics                             45
+2  intergovernmental transfers       20 Public economics                      29
+3  fiscal federalism                 19 Political science                     25
+4  local government finance          12 Politics                              20
+5  Brazilian municipalities          11 Government (linguistics)              14
+6  flypaper effect                   10 Revenue                               14
+7  fiscal transfers                   9 Decentralization                      13
+8  local government revenue           8 Business                              11
+9  Chile                              7 Public finance                        11
+10 Brazil                             6 Federalism                             8
+11 fiscal illusion                    6 Fiscal federalism                      8
+12 local government spending          6 Local government                       8
+13 federalism                         5 Property tax                           7
+14 regional disparities               5 Tax revenue                            7
+15 fiscal equalization                4 Humanities                             6
+16 local elections                    4 Incentive                              6
+17 Minas Gerais municipalities        4 Econometrics                           5
+18 municipal tax revenue              4 Panel data                             5
+19 municipalities                     4 Public administration                  5
+20 property tax                       4 Regression discontinuity design        5
+
+
+Nota de interpretação: a métrica de coautoria internacional impressa pelo bibliometrix como zero não é informativa neste conjunto, pois as afiliações foram omitidas por cobertura irregular. Não se deve interpretá-la como ausência de colaboração internacional.

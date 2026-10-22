@@ -1,0 +1,86 @@
+{
+  "topic": "Comparação de instituições fiscais subnacionais, regimes unitários/federativos e contexto Brasil–Chile",
+  "articles": [
+    {
+      "authors": "Christopher Garman; Stephan Haggard; Eliza J. Willis",
+      "year": 2001,
+      "title": "Fiscal Decentralization: A Political Theory with Latin American Cases",
+      "journal": "World Politics",
+      "doi": "10.1353/wp.2001.0002",
+      "publisher_or_index_url": "https://www.cambridge.org/core/journals/world-politics/article/fiscal-decentralization-a-political-theory-with-latin-american-cases/761FFA291721699EC51D73E66308B260",
+      "verified_peer_review_evidence": "A página oficial da Cambridge classifica o item como “Research Article” em World Politics e a página oficial do periódico o descreve como periódico trimestral acadêmico que publica artigos de pesquisa; Crossref confirma DOI, tipo journal-article, autores e volume 53(2). DOI: https://api.crossref.org/works/10.1353/wp.2001.0002",
+      "finding_and_relevance": "Os autores desenvolvem uma teoria política da descentralização baseada nas linhas de accountability entre níveis de governo e testam-na em cinco países latino-americanos; mostram que diferenças na distribuição de receitas e despesas e na discricionariedade central ajudam a explicar resultados distintos, inclusive crises de dívida subnacional e descompasso entre responsabilidades e recursos. É uma base comparativa para interpretar autonomia fiscal e transferências em um país federal como o Brasil e contrastá-lo com um unitário como o Chile."
+    },
+    {
+      "authors": "Tulia G. Falleti",
+      "year": 2005,
+      "title": "A Sequential Theory of Decentralization: Latin American Cases in Comparative Perspective",
+      "journal": "American Political Science Review",
+      "doi": "10.1017/S0003055405051695",
+      "publisher_or_index_url": "https://www.cambridge.org/core/journals/american-political-science-review/article/sequential-theory-of-decentralization-latin-american-cases-in-comparative-perspective/872938B9498E62BC420B15C377F1BB7D",
+      "verified_peer_review_evidence": "A página oficial da Cambridge identifica o texto como “Articles” em American Political Science Review; a página oficial do periódico declara que publica artigos e ensaios revisados por pares. Crossref confirma DOI, autora, volume 99(3) e tipo journal-article: https://api.crossref.org/works?query.title=A%20Sequential%20Theory%20of%20Decentralization%20Latin%20American%20Cases%20in%20Comparative%20Perspective&rows=3",
+      "finding_and_relevance": "Propõe que a ordem de reformas fiscais, administrativas e políticas, junto aos interesses territoriais e efeitos de feedback, determina a evolução do equilíbrio intergovernamental; a evidência cobre os quatro maiores países latino-americanos e casos extremos. Ajuda a não tratar descentralização apenas como proporção de receitas/despesas e a incorporar a trajetória institucional brasileira na comparação com o Chile."
+    },
+    {
+      "authors": "Maria Escobar-Lemmon",
+      "year": 2001,
+      "title": "Fiscal Decentralization and Federalism in Latin America",
+      "journal": "Publius: The Journal of Federalism",
+      "doi": "10.1093/oxfordjournals.pubjof.a004919",
+      "publisher_or_index_url": "https://academic.oup.com/publius/article-abstract/31/4/23/1858773",
+      "verified_peer_review_evidence": "A página de instruções oficial da Oxford Academic descreve Publius como periódico de dupla revisão cega (“double-blind peer-reviewed journal”); a página do artigo fornece DOI, volume, páginas e resumo. Registro Crossref confirma o DOI e o tipo journal-article: https://api.crossref.org/works?query.title=Fiscal%20Decentralization%20and%20Federalism%20in%20Latin%20America&rows=3",
+      "finding_and_relevance": "Em uma amostra de 17 países latino-americanos (1985–1995), o federalismo é preditor significativo de maior descentralização fiscal, mas poder presidencial, ajuste estrutural, desenvolvimento e tamanho do país também importam. É especialmente útil para separar o efeito jurídico de ser federação/unitário do grau efetivo de autonomia financeira de municípios e governos subnacionais."
+    },
+    {
+      "authors": "Jonathan Rodden",
+      "year": 2002,
+      "title": "The Dilemma of Fiscal Federalism: Grants and Fiscal Performance around the World",
+      "journal": "American Journal of Political Science",
+      "doi": "10.2307/3088407",
+      "publisher_or_index_url": "https://www.jstor.org/stable/3088407",
+      "verified_peer_review_evidence": "A página oficial da Cambridge para American Political Science Review não é o veículo deste item; a fonte oficial/indexadora JSTOR identifica o periódico American Journal of Political Science, volume 46(3), e Crossref classifica o registro como journal-article e confirma o DOI, autor e data: https://api.crossref.org/works/10.2307/3088407. O periódico é um veículo científico revisado por pares; a confirmação bibliográfica usada aqui é a de JSTOR/Crossref.",
+      "finding_and_relevance": "Usando dados comparativos internacionais, o artigo examina como instituições fiscais e políticas e a dependência de subgovernos de grants afetam seu desempenho fiscal. É uma referência fundacional para operacionalizar autonomia própria, transferências e restrições orçamentárias ao comparar finanças municipais de Bagé/Sant'Ana do Livramento com o arranjo chileno."
+    },
+    {
+      "authors": "Fernanda Brollo; Tommaso Nannicini",
+      "year": 2012,
+      "title": "Tying Your Enemy's Hands in Close Races: The Politics of Federal Transfers in Brazil",
+      "journal": "American Political Science Review",
+      "doi": "10.1017/S0003055412000433",
+      "publisher_or_index_url": "https://www.cambridge.org/core/journals/american-political-science-review/article/tying-your-enemys-hands-in-close-races-the-politics-of-federal-transfers-in-brazil/3262A98BFF83D8E2CED402039FA33C4E",
+      "verified_peer_review_evidence": "A página oficial da Cambridge classifica o item como “Research Article” em American Political Science Review; a página oficial do periódico declara que publica artigos revisados por pares. Crossref confirma DOI, autores, volume 106(4), tipo journal-article e resumo: https://api.crossref.org/works/10.1017/S0003055412000433",
+      "finding_and_relevance": "Com desenho de regressão descontínua em eleições municipais apertadas, os autores mostram que prefeitos alinhados ao presidente recebem aproximadamente um terço a mais em transferências discricionárias de infraestrutura nos anos pré-eleitorais, enquanto oposicionistas estreitamente eleitos são penalizados. O resultado é diretamente útil para distinguir transferências constitucionais/formulares de transferências discricionárias e para discutir autonomia efetiva dos municípios brasileiros."
+    },
+    {
+      "authors": "Marcos Mendes",
+      "year": 2005,
+      "title": "Capture of fiscal transfers: a study of Brazilian local governments",
+      "journal": "Economia Aplicada",
+      "doi": "10.1590/s1413-80502005000300005",
+      "publisher_or_index_url": "https://www.scielo.br/j/ecoa/a/3t4KYcqPmcgtbfFRhqqYDLR/?format=html&lang=en",
+      "verified_peer_review_evidence": "A página oficial SciELO identifica o texto na seção “ARTIGOS” de Economia Aplicada; o registro DOAJ identifica o periódico e seus ISSNs como publicação científica de acesso aberto, e Crossref confirma o DOI, volume 9(3), autor e tipo journal-article: https://api.crossref.org/works/10.1590/s1413-80502005000300005. A existência de revisão por pares é tratada como a prática editorial do periódico indexado em SciELO/DOAJ; a página do artigo não exibe o procedimento em detalhe.",
+      "finding_and_relevance": "Testando municípios brasileiros, o estudo encontra evidência econométrica de captura das transferências por grupos locais, associada a ilusão fiscal, baixo poder de barganha do eleitor, sobrefinanciamento e pobreza; recomenda cautela no desenho das transferências e maior capacidade de arrecadação própria. É relevante para avaliar como dependência de transferências pode afetar composição das despesas, accountability e autonomia fiscal em municípios fronteiriços do RS."
+    },
+    {
+      "authors": "Carla Alberti; Diego Díaz-Rioseco; Ignacio Riveros",
+      "year": 2023,
+      "title": "Do Fiscal Transfers Affect Local Democracy? Lessons from Chilean Municipalities",
+      "journal": "Latin American Politics and Society",
+      "doi": "10.1017/lap.2023.16",
+      "publisher_or_index_url": "https://www.cambridge.org/core/journals/latin-american-politics-and-society/article/do-fiscal-transfers-affect-local-democracy-lessons-from-chilean-municipalities/6AEC8F7C0FA1EC36263FF5012CBBF8EC",
+      "verified_peer_review_evidence": "A página oficial de peer review da Cambridge declara que Latin American Politics and Society usa revisão duplo-anônima; a página do artigo o classifica como “Research Article” e fornece DOI, volume 65(4), páginas e texto integral. Crossref confirma autores, DOI e tipo journal-article: https://api.crossref.org/works/10.1017/lap.2023.16",
+      "finding_and_relevance": "Com dados administrativos do Fondo Común Municipal (FCM), os autores distinguem o total recebido da receita efetivamente não tributária e mostram que ambos elevam a votação do incumbente, mas o efeito é menor na medida mais precisa; o efeito sobre reeleição e competitividade desaparece quando se usa a medida não tributária. O artigo oferece evidência chilena diretamente aplicável à análise de transferências, rendas fiscais e accountability em um regime unitário."
+    },
+    {
+      "authors": "Leonardo E. Letelier S.; Francisco Mesa",
+      "year": 2015,
+      "title": "A Fiscal Need Approach to Sub-National Fiscal Equalization. Application to the Case of Chile",
+      "journal": "Lex localis - Journal of Local Self-Government",
+      "doi": "10.4335/13.3.503-519(2015)",
+      "publisher_or_index_url": "https://lex-localis.org/index.php/LexLocalis/article/view/13.3.503-519%282015%29",
+      "verified_peer_review_evidence": "A página oficial do periódico declara que todos os artigos são revisados em formato duplo-cego por dois pareceristas anônimos; a página do artigo fornece DOI, autores, volume 13(3) e resumo. Crossref confirma o registro como journal-article, DOI e metadados: https://api.crossref.org/works?query.title=A%20Fiscal%20Need%20Approach%20to%20Sub-National%20Fiscal%20Equalization%20Transfers%20in%20Chile&rows=5",
+      "finding_and_relevance": "Aplica uma abordagem de necessidade fiscal para medir a lacuna entre transferências municipais chilenas e o gasto por beneficiário teoricamente adequado em educação escolar, atenção primária à saúde e outros serviços. Conclui que o Chile não é fiscalmente centralizada quanto à distribuição do gasto geral nessas áreas, embora permaneça economicamente centralizado; é a referência mais direta para comparar equalização, necessidades de gasto e autonomia local com municípios brasileiros."
+    }
+  ],
+  "notes": "Foram selecionados exatamente 8 artigos distintos de periódicos, sem livros, teses, working papers, relatórios ou artigos de conferência; todos têm DOI confirmado em Crossref e/ou na página oficial do editor/indexador. Os artigos de APSR, Publius, Latin American Politics and Society e Lex localis têm evidência explícita de revisão por pares nas páginas oficiais. Para World Politics, o registro editorial oficial identifica o item como Research Article em periódico acadêmico e a página do periódico descreve a publicação de artigos de pesquisa; para Economia Aplicada, SciELO identifica o item como ARTIGOS e DOAJ/Crossref confirmam o periódico e o tipo journal-article, mas as páginas consultadas não exibiram uma política detalhada de revisão. Rodden é um artigo de AJPS (não APSR); sua fonte oficial JSTOR/Crossref foi usada para evitar confusão entre periódicos. Não há DOI ou artigo não confirmado na lista."
+}

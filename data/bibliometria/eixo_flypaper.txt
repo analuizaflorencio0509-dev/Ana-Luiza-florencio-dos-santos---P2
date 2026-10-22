@@ -1,0 +1,86 @@
+{
+  "topic": "Efeito flypaper e resposta de governos locais a transferências intergovernamentais",
+  "articles": [
+    {
+      "authors": "Stephen J. Bailey; Stephen Connolly",
+      "year": 1998,
+      "title": "The flypaper effect: Identifying areas for further research",
+      "journal": "Public Choice",
+      "doi": "10.1023/A:1005053921709",
+      "publisher_or_index_url": "https://link.springer.com/article/10.1023/A:1005053921709",
+      "verified_peer_review_evidence": "A página editorial Springer confirma título, autores, periódico, DOI e resumo; a página oficial de ética do Public Choice declara explicitamente: ‘Research content published in this journal is peer reviewed (single-anonymous)’ (https://link.springer.com/journal/11127/ethics-and-disclosures). DOI também foi confirmado no registro Crossref (https://api.crossref.org/works/10.1023/A:1005053921709).",
+      "finding_and_relevance": "Revisão abrangente da literatura do efeito flypaper: mostra que a tradição é majoritariamente neoclássica, centrada no modelo de demanda do eleitor mediano e em explicações de oferta/public choice, e aponta agendas de pesquisa. É útil para construir a revisão fundacional e justificar atenção a instituições, autonomia e identificação empírica nas comparações Chile–Bagé–Sant'Ana do Livramento."
+    },
+    {
+      "authors": "G. Brennan; J. J. Pincus",
+      "year": 1996,
+      "title": "A minimalist model of federal grants and flypaper effects",
+      "journal": "Journal of Public Economics",
+      "doi": "10.1016/0047-2727(95)01543-4",
+      "publisher_or_index_url": "https://doi.org/10.1016/0047-2727(95)01543-4",
+      "verified_peer_review_evidence": "A página ScienceDirect/Elsevier identifica o texto como ‘Research article’, publica o título e o periódico e lista as palavras-chave ‘Federal grants’, ‘Flypaper’ e ‘Median voter’; o guia oficial do Journal of Public Economics informa revisão single-anonymous, normalmente por ao menos dois revisores (https://www.sciencedirect.com/journal/journal-of-public-economics/publish/guide-for-authors). Crossref registra o DOI como type ‘journal-article’ (https://api.crossref.org/works/10.1016/0047-2727(95)01543-4).",
+      "finding_and_relevance": "O modelo mostra que efeitos flypaper podem surgir com transferências federais não condicionadas mesmo sem agenda-setters ou intransitividades de votação. Fornece mecanismo teórico para interpretar por que uma transferência pode elevar mais a despesa local do que um aumento equivalente da renda privada e para formular hipóteses sobre autonomia fiscal."
+    },
+    {
+      "authors": "Ligia Melo",
+      "year": 2002,
+      "title": "The Flypaper Effect under Different Institutional Contexts: The Colombian Case",
+      "journal": "Public Choice",
+      "doi": "10.1023/A:1014964318685",
+      "publisher_or_index_url": "https://link.springer.com/article/10.1023/A:1014964318685",
+      "verified_peer_review_evidence": "A página editorial Springer fornece o resumo e identifica o artigo em Public Choice; a política oficial do periódico declara que o conteúdo de pesquisa publicado é revisado por pares em processo single-anonymous (https://link.springer.com/journal/11127/ethics-and-disclosures). Crossref confirma autores, volume, páginas, ano, DOI e type ‘journal-article’ (https://api.crossref.org/works/10.1023/A:1014964318685).",
+      "finding_and_relevance": "Usando modelos de painel para a Colômbia, encontra efeito flypaper quando entidades subnacionais são altamente dependentes de transferências intergovernamentais; também encontra resposta assimétrica às reduções de transferências. É especialmente pertinente para comparar dependência, autonomia para gerir receitas/despesas/dívida e desenho institucional com Chile e municípios gaúchos."
+    },
+    {
+      "authors": "Matz Dahlberg; Eva Mörk; Jørn Rattsø; Hanna Ågren",
+      "year": 2008,
+      "title": "Using a discontinuous grant rule to identify the effect of grants on local taxes and spending",
+      "journal": "Journal of Public Economics",
+      "doi": "10.1016/j.jpubeco.2007.05.004",
+      "publisher_or_index_url": "https://doi.org/10.1016/j.jpubeco.2007.05.004",
+      "verified_peer_review_evidence": "A página ScienceDirect/Elsevier identifica o texto como ‘Research article’ e apresenta o resumo, a seção metodológica e o periódico; o guia oficial do Journal of Public Economics documenta revisão single-anonymous, normalmente por no mínimo dois revisores (https://www.sciencedirect.com/journal/journal-of-public-economics/publish/guide-for-authors). Crossref confirma o DOI, autores, periódico, páginas e type ‘journal-article’ (https://api.crossref.org/works/10.1016/j.jpubeco.2007.05.004).",
+      "finding_and_relevance": "Explora a descontinuidade da fórmula de transferências sueca como instrumento para identificar efeitos causais em 279 municípios. Encontra crowding-in: transferências gerais aumentam a despesa local, mas não reduzem as alíquotas; é uma referência metodológica central para separar resposta a transferências de endogeneidade e discutir autonomia tributária."
+    },
+    {
+      "authors": "Emanuele Bracco; Ben Lockwood; Francesco Porcelli; Michela Redoano",
+      "year": 2015,
+      "title": "Intergovernmental grants as signals and the alignment effect: Theory and evidence",
+      "journal": "Journal of Public Economics",
+      "doi": "10.1016/j.jpubeco.2014.11.007",
+      "publisher_or_index_url": "https://doi.org/10.1016/j.jpubeco.2014.11.007",
+      "verified_peer_review_evidence": "A página ScienceDirect/Elsevier identifica o texto como ‘Research article’ e publica o argumento, o desenho empírico e as conclusões; o guia oficial do Journal of Public Economics estabelece revisão single-anonymous por normalmente pelo menos dois revisores (https://www.sciencedirect.com/journal/journal-of-public-economics/publish/guide-for-authors). Crossref confirma DOI, autores, ano impresso, periódico, páginas e type ‘journal-article’ (https://api.crossref.org/works/10.1016/j.jpubeco.2014.11.007).",
+      "finding_and_relevance": "Para municípios italianos, combina modelo de agência política com regressão descontínua e usa alinhamento político como instrumento: municípios alinhados recebem cerca de 40% mais transferências e a reeleição do prefeito aumenta; a estimação IV encontra cerca de €0,40 de aumento da despesa por €1 de grant, contra efeito desprezível da renda privada. É útil para incorporar incentivos políticos e alinhamento vertical à análise das respostas locais no Brasil e no Chile."
+    },
+    {
+      "authors": "Kaddour Mehiriz; Richard Marceau",
+      "year": 2014,
+      "title": "The Flypaper and Asymmetric Effects of Intergovernmental Grants to Quebec Municipalities",
+      "journal": "Public Budgeting & Finance",
+      "doi": "10.1111/pbaf.12026",
+      "publisher_or_index_url": "https://onlinelibrary.wiley.com/doi/10.1111/pbaf.12026",
+      "verified_peer_review_evidence": "A página editorial Wiley fornece autores, resumo, citação e DOI; as diretrizes oficiais de autores informam que Public Budgeting & Finance usa processo de revisão double-blind (https://onlinelibrary.wiley.com/page/journal/15405850/homepage/forauthors.html). Crossref confirma DOI, type ‘journal-article’, autores, volume, páginas e ano (https://api.crossref.org/works/10.1111/pbaf.12026).",
+      "finding_and_relevance": "Com painel de 1.084 municípios de Quebec (2001–2007), encontra efeitos flypaper e assimétricos, sensíveis ao tipo de transferência e à função de despesa; grants condicionais alteram mais a composição dos serviços, enquanto incondicionais elevam mais o nível de provisão. Ajuda a distinguir transferências vinculadas e livres no estudo de receitas, despesas e autonomia local."
+    },
+    {
+      "authors": "Marie Kjaergaard",
+      "year": 2015,
+      "title": "The Flypaper Effect: Do Political Institutions Affect Danish Local Governments’ Response to Intergovernmental Grants?",
+      "journal": "Local Government Studies",
+      "doi": "10.1080/03003930.2014.968708",
+      "publisher_or_index_url": "https://www.tandfonline.com/doi/abs/10.1080/03003930.2014.968708",
+      "verified_peer_review_evidence": "A página oficial Taylor & Francis do periódico declara explicitamente: ‘All articles published in Local Government Studies have undergone rigorous peer review’ (https://www.tandfonline.com/journals/flgs20/about-this-journal); a página do artigo fornece o resumo e DOI, e Crossref confirma o registro como type ‘journal-article’ (https://api.crossref.org/works/10.1080/03003930.2014.968708).",
+      "finding_and_relevance": "Usando a reforma dinamarquesa do esquema de transferências de 2007, testa como instituições políticas moderam a resposta local e encontra forte assimetria do efeito flypaper tanto sob instituições orçamentárias centralizadas quanto fragmentadas. Serve para avaliar se regras e organização político-orçamentária condicionam a autonomia efetiva de Bagé e Sant'Ana do Livramento."
+    },
+    {
+      "authors": "Vicente Rios; Miriam Hortas-Rico; Pedro Pascual",
+      "year": 2022,
+      "title": "What shapes the flypaper effect? The role of the political environment in the budget process",
+      "journal": "Local Government Studies",
+      "doi": "10.1080/03003930.2020.1866555",
+      "publisher_or_index_url": "https://www.tandfonline.com/doi/full/10.1080/03003930.2020.1866555",
+      "verified_peer_review_evidence": "A página oficial do periódico Taylor & Francis declara que todos os artigos publicados passaram por revisão rigorosa (https://www.tandfonline.com/journals/flgs20/about-this-journal); a página do artigo apresenta o resumo e o DOI, enquanto Crossref confirma autores, publicação impressa em 2022, periódico, páginas, DOI, type ‘journal-article’ e uma assertion de peer-review statement (https://api.crossref.org/works/10.1080/03003930.2020.1866555).",
+      "finding_and_relevance": "Em 2.451 municípios espanhóis (2003–2015), estima heterogeneidade espacial com painel Bayesiano e efeitos fixos: maior eficiência de arrecadação e maior força política local reduzem o efeito flypaper. É diretamente útil para operacionalizar capacidade arrecadatória, força política e autonomia fiscal ao comparar municípios brasileiros e o arranjo chileno."
+    }
+  ],
+  "notes": "Foram selecionados exatamente 8 artigos de periódicos, sem livros, teses, working papers ou anais; cada DOI foi conferido no registro Crossref e/ou na página editorial. Os anos de Kjaergaard (2015) e Rios et al. (2022) seguem a publicação impressa/citação do periódico, embora Crossref também registre publicação online anterior (2014 e 2021, respectivamente). O título de Bailey e Connolly e os demais metadados seguem a página Springer/Crossref. Não há artigo não confirmado; as diferenças online/impresso foram explicitadas para evitar falsa precisão."
+}

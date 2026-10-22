@@ -1,0 +1,86 @@
+{
+  "topic": "Eficiência do gasto municipal, provisão de serviços e resultados sociais no Brasil",
+  "articles": [
+    {
+      "authors": "Flavia Peixoto Faria; Paulo de Martino Jannuzzi; Silvano José da Silva",
+      "year": 2008,
+      "title": "Eficiência dos gastos municipais em saúde e educação: uma investigação através da análise envoltória no estado do Rio de Janeiro",
+      "journal": "Revista de Administração Pública",
+      "doi": "10.1590/S0034-76122008000100008",
+      "publisher_or_index_url": "FGV/RAP: https://periodicos.fgv.br/rap/article/view/6629 ; SciELO: https://www.scielo.br/j/rap/a/zNQqrdqspLTChSzHTvW3Hbs/?lang=pt ; Crossref: https://api.crossref.org/works/10.1590/s0034-76122008000100008",
+      "verified_peer_review_evidence": "A página oficial da RAP no SciELO descreve o periódico e informa que os artigos aprovados passam por avaliação de dois revisores em sistema duplo-cego: https://www.scielo.br/journal/rap/about/?ilang=en. A página do artigo na FGV identifica-o como publicação da RAP, e o registro Crossref confirma DOI, volume 42(1), páginas 155–177 e tipo journal-article.",
+      "finding_and_relevance": "Aplicando DEA aos municípios fluminenses em 1999/2000, o artigo relaciona despesas per capita de educação/cultura e saúde/saneamento a alfabetização, saneamento, mortalidade hídrica e matrícula na educação infantil; aponta São Gonçalo, Japeri, Queimados, Cantagalo, São João de Meriti e Resende como boas práticas. É uma referência fundacional diretamente útil para medir eficiência do gasto municipal em relação a resultados sociais."
+    },
+    {
+      "authors": "Carlos Rosano-Peña; Pedro Henrique Melo Albuquerque; José Márcio Carvalho",
+      "year": 2012,
+      "title": "A eficiência dos gastos públicos em educação: evidências georreferenciadas nos municípios goianos",
+      "journal": "Economia Aplicada",
+      "doi": "10.1590/S1413-80502012000300004",
+      "publisher_or_index_url": "SciELO: https://www.scielo.br/j/ecoa/a/BSbbWTG7YwF84PYW3drzLdh/?lang=pt ; USP citation: https://revistas.usp.br/ecoa/citationstylelanguage/get/chicago-author-date?submissionId=53104&publicationId=44265&issueId=4412 ; Crossref: https://api.crossref.org/works/10.1590/s1413-80502012000300004",
+      "verified_peer_review_evidence": "A página oficial About da Economia Aplicada informa triagem editorial seguida de avaliação por pareceristas indicados pelos editores em sistema duplo-cego: https://revistas.usp.br/ecoa/about. O registro da USP/Crossref coloca o texto em Economia Aplicada, volume 16(3), 2012, como journal-article e confirma o DOI.",
+      "finding_and_relevance": "Com DEA clássica e fronteira invertida para a educação municipal goiana (2005–2009), estima ineficiência global de 67,44%, decomposta em escala, entorno e gestão, e calcula possível economia de R$ 178,5 milhões (12,2% do gasto). Ajuda a separar volume de recursos, gestão e contexto socioeconômico na análise comparativa de municípios."
+    },
+    {
+      "authors": "Carlos Rosano-Peña; Pedro Henrique Melo Albuquerque; Cecílio Elias Daher",
+      "year": 2012,
+      "title": "Dinâmica da produtividade e eficiência dos gastos na educação dos municípios goianos",
+      "journal": "Revista de Administração Contemporânea",
+      "doi": "10.1590/S1415-65552012000600006",
+      "publisher_or_index_url": "SciELO: https://www.scielo.br/j/rac/a/dNprvvjPmGYqN3WDFCfxKgz/?lang=pt ; Crossref: https://api.crossref.org/works/10.1590/s1415-65552012000600006",
+      "verified_peer_review_evidence": "A página oficial da RAC no SciELO caracteriza seu conteúdo como peer-reviewed e descreve o processo de peer review/open reports: https://www.scielo.br/journal/rac/about/?ilang=en. O Crossref confirma journal-article, volume 16(6), 2012, páginas 845–865 e DOI.",
+      "finding_and_relevance": "Usando índice de produtividade de Malmquist, DEA e cadeias de Markov, encontra melhora da produtividade/eficiência do ensino municipal goiano em 2005, 2007 e 2009, associada a eficiência produtiva e mudança tecnológica. Oferece dimensão dinâmica para avaliar se a provisão melhora ao longo do tempo e para discutir transferências condicionadas a desempenho."
+    },
+    {
+      "authors": "Patrícia Siqueira Varela; Gilberto de Andrade Martins; Luiz Paulo Lopes Fávero",
+      "year": 2010,
+      "title": "Production efficiency and financing of public health: an analysis of small municipalities in the state of São Paulo — Brazil",
+      "journal": "Health Care Management Science",
+      "doi": "10.1007/s10729-009-9114-y",
+      "publisher_or_index_url": "Springer: https://doi.org/10.1007/s10729-009-9114-y ; Crossref: https://api.crossref.org/works/10.1007/s10729-009-9114-y ; RePEc index: https://ideas.repec.org/a/kap/hcarem/v13y2010i2p112-123.html",
+      "verified_peer_review_evidence": "As diretrizes oficiais da Springer para Health Care Management Science declaram revisão duplo-cega dos manuscritos: https://link.springer.com/journal/10729/submission-guidelines. A página DOI/Springer e o Crossref confirmam publicação como artigo de periódico no volume 13(2), 2010, páginas 112–123.",
+      "finding_and_relevance": "Avaliando pequenos municípios paulistas por DEA, somente 6,41% foram eficientes; a dependência de transferências intergovernamentais gerais e de transferências específicas nacionais para saúde apresentou correlação negativa com os escores. É especialmente pertinente ao eixo por ligar eficiência da atenção básica, perfil de financiamento e federalismo fiscal."
+    },
+    {
+      "authors": "Alexandre de Cássio Rodrigues; Tiago Silveira Gontijo; Carlos Alberto Gonçalves",
+      "year": 2021,
+      "title": "Eficiência do gasto público em atenção primária em saúde nos municípios do Rio de Janeiro, Brasil: escores robustos e seus determinantes",
+      "journal": "Ciência & Saúde Coletiva",
+      "doi": "10.1590/1413-81232021269.2.04342020",
+      "publisher_or_index_url": "SciELO/ScieloSP: https://www.scielosp.org/article/csc/2021.v26suppl2/3567-3579/pt/ ; Crossref: https://api.crossref.org/works/10.1590/1413-81232021269.2.04342020",
+      "verified_peer_review_evidence": "A política editorial oficial de Ciência & Saúde Coletiva informa avaliação por pares e revisão duplo-anônima: https://www.scielo.br/journal/csc/about/?ilang=en. O registro Crossref confirma DOI, volume 26(supl. 2), páginas 3567–3579 e tipo journal-article.",
+      "finding_and_relevance": "Para 70 municípios do Rio de Janeiro em 2015, combina jackstrap, DEA robusta e Tobit: 63,9% aplicaram eficientemente os recursos de atenção primária, mas os outputs poderiam ser em média 6% maiores com os gastos observados; não encontrou vantagem sistemática de riqueza, desenvolvimento ou população. Serve para testar robustez e heterogeneidade dos determinantes da eficiência municipal."
+    },
+    {
+      "authors": "Pedro Jorge Holanda Figueiredo Alves; Jevuks Matheus Araujo",
+      "year": 2024,
+      "title": "The effects of intergovernmental transfers on the local fiscal incentives of Brazilian municipalities",
+      "journal": "Journal of Government and Economics",
+      "doi": "10.1016/j.jge.2024.100104",
+      "publisher_or_index_url": "Elsevier/ScienceDirect: https://doi.org/10.1016/j.jge.2024.100104 ; Crossref: https://api.crossref.org/works/10.1016/j.jge.2024.100104 ; Journal aims/scope: https://www.sciencedirect.com/journal/journal-of-government-and-economics/about/aims-and-scope",
+      "verified_peer_review_evidence": "O guia oficial de autores da Elsevier informa que o JGE usa revisão duplo-anônima, normalmente com pelo menos dois revisores especialistas independentes: https://www.sciencedirect.com/journal/journal-of-government-and-economics/publish/guide-for-authors. DOI landing page e Crossref confirmam publicação em periódico, volume 13 (2024), artigo 100104.",
+      "finding_and_relevance": "Explorando descontinuidades nos primeiros cortes do FPM e painel de 2013–2016, mostra que receita exógena adicional elevou sobretudo gastos administrativos e de esporte/lazer, provavelmente via cargos comissionados, e não saúde/educação. É central para discutir incentivos fiscais associados às transferências, autonomia efetiva e composição do gasto municipal."
+    },
+    {
+      "authors": "Ronaldo Seroa da Motta; Ajax Moreira",
+      "year": 2009,
+      "title": "Political factors and the efficiency of municipal expenditure in Brazil",
+      "journal": "Economia Aplicada",
+      "doi": "10.1590/S1413-80502009000400001",
+      "publisher_or_index_url": "USP/Economia Aplicada: https://revistas.usp.br/ecoa/article/view/1020 ; Crossref: https://api.crossref.org/works/10.1590/s1413-80502009000400001",
+      "verified_peer_review_evidence": "A página About oficial da Economia Aplicada declara triagem editorial e avaliação por pareceristas em sistema duplo-cego: https://revistas.usp.br/ecoa/about. A página do editor confirma o artigo como Economia Aplicada 13(4), 2009, páginas 353–370, com DOI e data de publicação.",
+      "finding_and_relevance": "Com fronteira estocástica para municípios brasileiros em 1990–2000, não rejeita economias de escala e encontra efeitos da margem de votos e do primeiro/segundo mandato, compatíveis com patronagem; conselhos setoriais e política local não alteraram a eficiência estimada. Ajuda a incorporar instituições, incentivos políticos e assimetria informacional na explicação dos resultados do gasto."
+    },
+    {
+      "authors": "Darlan Christiano Kroth; Raquel Rangel de Meirelles Guimarães",
+      "year": 2021,
+      "title": "Efficiency of the primary health care policy in Brazilian municipalities: an application of the Pearl’s Structural Causal Model",
+      "journal": "Cadernos Saúde Coletiva",
+      "doi": "10.1590/1414-462x202199010297",
+      "publisher_or_index_url": "SciELO: https://www.scielo.br/j/cadsc/a/Qd4BvC3FfLRy4by9MsPzqrL/?format=html&lang=en ; Crossref: https://api.crossref.org/works/10.1590/1414-462x202199010297",
+      "verified_peer_review_evidence": "A política editorial oficial de Cadernos Saúde Coletiva declara revisão duplo-cega por pelo menos dois revisores: https://www.scielo.br/journal/cadsc/about/?ilang=en. O artigo é identificado pelo SciELO/Crossref como journal-article de Cadernos Saúde Coletiva, volume 29 (edição especial), 2021, páginas 16–27.",
+      "finding_and_relevance": "Estima causalmente o efeito do Pacto pela Saúde sobre o Índice de Vulnerabilidade à Saúde em municípios brasileiros (2006–2013) por modelo estrutural de Pearl e encontra impacto positivo e significativo da eficiência de gestão na redução da vulnerabilidade. É útil para conectar governança/eficiência da provisão de atenção primária a um resultado social, não apenas a insumos orçamentários."
+    }
+  ],
+  "notes": "Foram selecionados exatamente 8 artigos de pesquisa publicados em periódicos, todos com DOI confirmado em Crossref e/ou na página do editor/indexador e com evidência oficial de revisão por pares. Não foram usados livros, teses, working papers, relatórios ou artigos de conferência. Ressalva de metadados: o registro Crossref de Motta e Moreira apresenta de forma inconsistente o container-title “Eclética Química”, mas a página oficial da USP confirma título, periódico Economia Aplicada, volume, páginas, data e DOI; por isso a identificação do veículo foi baseada na fonte oficial do editor. O artigo de Kroth e Guimarães trata de eficiência da política/provisão de atenção primária e vulnerabilidade social, não de eficiência contábil do gasto em sentido estrito, mas foi incluído por se encaixar diretamente na dimensão de provisão de serviços e resultados sociais do eixo."
+}

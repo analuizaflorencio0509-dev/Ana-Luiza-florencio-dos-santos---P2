@@ -1,0 +1,86 @@
+{
+  "topic": "Transferências intergovernamentais brasileiras, FPM e efeitos redistributivos ou incentivos fiscais",
+  "articles": [
+    {
+      "authors": "Enlinson Mattos; Fabiana Rocha; Paulo Arvate",
+      "year": 2011,
+      "title": "Flypaper effect revisited: evidence for tax collection efficiency in Brazilian municipalities",
+      "journal": "Estudos Econômicos (São Paulo)",
+      "doi": "10.1590/S0101-41612011000200002",
+      "publisher_or_index_url": "https://www.scielo.br/j/ee/a/VYqSZcQbNhnD7N8MZC36gXq/?lang=pt",
+      "verified_peer_review_evidence": "A página SciELO confirma o artigo, a edição e o DOI. Os critérios oficiais de seleção da coleção SciELO estabelecem que a revisão e aprovação dos artigos publicados são feitas por pares e exigem procedimento explícito de peer review: https://www.scielo.br/media/files/frequently-asked-questions-about-the-journal-selection-process_en_scielo-brasil-en.html.",
+      "finding_and_relevance": "Com dados de 3.335 municípios, escores FDH e estimações 2SLS/Tobit instrumentadas pelas regras constitucionais, o artigo encontra efeito negativo das transferências incondicionais sobre a eficiência da arrecadação tributária, em contraste com a renda privada. É um resultado compatível com a hipótese de que transferências afetem negativamente a eficiência da arrecadação e, portanto, útil para discutir autonomia fiscal municipal."
+    },
+    {
+      "authors": "Marcos Mendes",
+      "year": 2005,
+      "title": "Capture of fiscal transfers: a study of Brazilian local governments",
+      "journal": "Economia Aplicada",
+      "doi": "10.1590/S1413-80502005000300005",
+      "publisher_or_index_url": "https://doi.org/10.1590/S1413-80502005000300005",
+      "verified_peer_review_evidence": "O DOI resolve para o registro SciELO/editorial e o Crossref classifica o item como journal-article em Economia Aplicada: https://api.crossref.org/works/10.1590/S1413-80502005000300005. A política oficial da coleção SciELO exige revisão e aprovação por pares para os periódicos incluídos: https://www.scielo.br/media/files/frequently-asked-questions-about-the-journal-selection-process_en_scielo-brasil-en.html.",
+      "finding_and_relevance": "Testando dados de governos locais brasileiros, o artigo usa a despesa das câmaras municipais como proxy de captura e encontra resultados compatíveis com as hipóteses de ilusão fiscal, baixo poder de barganha do eleitor, sobrefinanciamento e pobreza. Ajuda a incorporar riscos políticos e de rent-seeking aos efeitos redistributivos das transferências."
+    },
+    {
+      "authors": "Enlinson Mattos; Rafael Cardim; Ricardo Politi",
+      "year": 2018,
+      "title": "Grants and marginal cost of public funding: Empirical evidence for local governments in Brazil",
+      "journal": "Revista Brasileira de Economia",
+      "doi": "10.5935/0034-7140.20180023",
+      "publisher_or_index_url": "https://periodicos.fgv.br/rbe/article/view/57961",
+      "verified_peer_review_evidence": "A página oficial da RBE informa que todos os trabalhos são examinados por pareceristas externos e que os artigos são enviados a dois pareceristas (excepcionalmente um mais o editor): https://periodicos.fgv.br/rbe/about. A página do artigo confirma o título, o resumo e a publicação.",
+      "finding_and_relevance": "Para municípios brasileiros de 2006–2010, estima a elasticidade da base do ISS e o custo marginal dos fundos públicos, tratando a simultaneidade entre transferências incondicionais e receita local por variáveis instrumentais; no conjunto, R$ 1 adicional per capita em transferências reduz o efeito-preço/MCF local em cerca de 0,07%, embora com heterogeneidade entre subamostras. É relevante para avaliar como transferências alteram o custo político-econômico da arrecadação própria."
+    },
+    {
+      "authors": "Jorge L. D. Ferreira; Alexandre F. Alves; Emilie Caldeira",
+      "year": 2021,
+      "title": "Grants for Whom and Why? The Politics of Allocation of Transfers in Brazil",
+      "journal": "The Developing Economies",
+      "doi": "10.1111/deve.12265",
+      "publisher_or_index_url": "https://onlinelibrary.wiley.com/doi/10.1111/deve.12265",
+      "verified_peer_review_evidence": "As diretrizes oficiais da Wiley para The Developing Economies declaram modelo single-anonymized e que os manuscritos são avaliados por pareceristas anônimos e editor: https://onlinelibrary.wiley.com/page/journal/17461049/homepage/forauthors.html. A página da Wiley confirma autores, periódico, ano, páginas e DOI.",
+      "finding_and_relevance": "Painel de 2.856 municípios (1999–2011) mostra que alinhamento entre governos, deputados, alianças e anos eleitorais afeta a alocação de transferências discricionárias, com evidência de compra de apoio no Congresso. Serve para separar transferências politicamente alocadas das fórmulas redistributivas do FPM e discutir incentivos institucionais."
+    },
+    {
+      "authors": "Pedro Jorge Holanda Figueiredo Alves; Jevuks Matheus Araujo",
+      "year": 2024,
+      "title": "The effects of intergovernmental transfers on the local fiscal incentives of Brazilian municipalities",
+      "journal": "Journal of Government and Economics",
+      "doi": "10.1016/j.jge.2024.100104",
+      "publisher_or_index_url": "https://www.sciencedirect.com/science/article/pii/S2667319324000089",
+      "verified_peer_review_evidence": "A página oficial da Elsevier declara expressamente que o Journal of Government and Economics é um periódico open access revisado por pares: https://www.sciencedirect.com/journal/journal-of-government-and-economics/publish/open-access-options. Crossref confirma o item como journal-article, autores, periódico e DOI: https://api.crossref.org/works/10.1016/j.jge.2024.100104.",
+      "finding_and_relevance": "Explorando os três primeiros cortes populacionais do FPM com regressão descontínua e painel de 2013–2016, o estudo encontra aumento significativo sobretudo em despesas administrativas e de esporte/lazer, associado ao crescimento de cargos comissionados; conclui que a receita adicional se associa sobretudo ao aumento de gastos administrativos e de esporte/lazer. É a evidência causal mais diretamente aplicável à autonomia e ao comportamento fiscal municipal."
+    },
+    {
+      "authors": "Luis Alberto da Costa; Napiê Galvê Araújo Silva; Vilmar Antonio Gonçalves Tondolo; Lauro Nogueira",
+      "year": 2024,
+      "title": "Análise do efeito redistributivo das transferências intergovernamentais sobre as receitas municipais no semiárido brasileiro",
+      "journal": "Revista de Administração Pública",
+      "doi": "10.1590/0034-761220240010x",
+      "publisher_or_index_url": "https://periodicos.fgv.br/rap/article/view/92256",
+      "verified_peer_review_evidence": "A página oficial da RAP confirma o artigo, o resumo e sua publicação; a RAP também informa que está na coleção SciELO. Os critérios oficiais SciELO exigem revisão e aprovação por pares para os artigos publicados na coleção: https://www.scielo.br/media/files/frequently-asked-questions-about-the-journal-selection-process_en_scielo-brasil-en.html. O Crossref confirma o DOI, autores e periódico: https://api.crossref.org/works/10.1590/0034-761220240010x.",
+      "finding_and_relevance": "Com os 5.570 municípios, classifica transferências em devolutivas, compensatórias, redistributivas e condicionadas e aplica comparações, Gini e correlações. Devolutivas/compensatórias não equalizam receitas, as redistributivas reduzem pouco as disparidades e as condicionadas equalizam mais; oferece parâmetro empírico para comparar desigualdades de receita e efeitos do FPM em municípios do Sul."
+    },
+    {
+      "authors": "Claudio Hamilton Matos dos Santos",
+      "year": 2023,
+      "title": "Fundo de Participação dos Municípios: antigos problemas e novas propostas inspiradas nos programas de equalização fiscal internacionais e na experiência do ICMS do Ceará",
+      "journal": "Economia e Sociedade",
+      "doi": "10.1590/1982-3533.2023v32n3art09",
+      "publisher_or_index_url": "https://www.redalyc.org/journal/3952/395276340009/html/",
+      "verified_peer_review_evidence": "A página original/indexadora Redalyc identifica o texto como “Artigos originais” e registra recepção e aprovação (04/07/2023 e 12/09/2023), além do periódico e DOI; o texto também está no SciELO. Os critérios oficiais SciELO exigem avaliação por pares: https://www.scielo.br/media/files/frequently-asked-questions-about-the-journal-selection-process_en_scielo-brasil-en.html. Crossref confirma DOI e metadados: https://api.crossref.org/works/10.1590/1982-3533.2023v32n3art09.",
+      "finding_and_relevance": "Reexamina os critérios do FPM à luz de equalização fiscal da OCDE e da experiência cearense de ICMS baseado em resultados, com simulações de reformas. Conclui que mudanças podem reduzir substancialmente a desigualdade de recursos públicos per capita e preservar incentivos; é uma referência normativa e fundacional para discutir desenho redistributivo do FPM."
+    },
+    {
+      "authors": "Alexandre Lima Baião; Armando Santos Moreira da Cunha; Flavio Sergio Rezende Nunes de Souza",
+      "year": 2017,
+      "title": "Papel das transferências intergovernamentais na equalização fiscal dos municípios brasileiros",
+      "journal": "Revista do Serviço Público",
+      "doi": "10.21874/rsp.v68i3.1406",
+      "publisher_or_index_url": "https://revista.enap.gov.br/index.php/RSP/article/view/1406",
+      "verified_peer_review_evidence": "A política editorial oficial da RSP informa que artigos aprovados no desk review são enviados a dois ou três especialistas em sistema duplo-cego: https://revista.enap.gov.br/index.php/RSP/fluxogramaEditorial. A página do artigo confirma autores, periódico, publicação em 2017 e DOI.",
+      "finding_and_relevance": "Avalia se transferências consideram capacidade de autofinanciamento e necessidades/custos de serviços; os resultados mostram que o FPM, embora redistributivo, contribui pouco para equalização, enquanto Fundeb tem efeito positivo e transferências voluntárias são relativamente neutras e politicamente condicionadas. É uma base empírica central para decompor redistribuição, dependência e autonomia fiscal municipal."
+    }
+  ],
+  "notes": "Foram selecionados exatamente 8 artigos de periódicos; todos os oito DOI foram confirmados em Crossref e/ou na página do editor/indexador, e há evidência explícita de revisão por pares para cada veículo. O artigo de Santos (2023) é uma análise/simulação de reforma do FPM, não uma identificação causal; Ferreira e Mendes tratam transferências em sentido mais amplo (discricionárias/captura), mas permanecem dentro do eixo por sua utilidade para incentivos e desenho institucional. Não há artigo não confirmado nem DOI substituído por página genérica."
+}

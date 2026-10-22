@@ -1,0 +1,86 @@
+{
+  "topic": "Ilusão fiscal, percepção tributária, transparência e accountability nas finanças públicas",
+  "articles": [
+    {
+      "authors": "Bruno Heyndels; Carine Smolders",
+      "year": 1994,
+      "title": "Fiscal illusion at the local level: Empirical evidence for the Flemish municipalities",
+      "journal": "Public Choice",
+      "doi": "10.1007/BF01053224",
+      "publisher_or_index_url": "https://link.springer.com/article/10.1007/BF01053224",
+      "verified_peer_review_evidence": "Crossref registra o DOI como type=journal-article, com autores, ano de publicação (1994), periódico Public Choice e título: https://api.crossref.org/works/10.1007/BF01053224. As diretrizes editoriais da Springer descrevem o manuscrito compilado como usado para peer review e tratam da seleção/avaliação por revisores: https://link.springer.com/journal/11127/submission-guidelines.",
+      "finding_and_relevance": "Com dados de 302 municípios flamengos, estima quatro fontes de ilusão fiscal — efeito flypaper, ilusão do inquilino, complexidade e elasticidade tributárias — e encontra efeitos ilusórios importantes. É diretamente útil para comparar como transferências, estrutura tributária e percepção de custos podem afetar despesa e autonomia fiscal municipal em Bagé e Sant'Ana do Livramento."
+    },
+    {
+      "authors": "Brian E. Dollery; Andrew C. Worthington",
+      "year": 1996,
+      "title": "The empirical analysis of fiscal illusion",
+      "journal": "Journal of Economic Surveys",
+      "doi": "10.1111/j.1467-6419.1996.tb00014.x",
+      "publisher_or_index_url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.1996.tb00014.x",
+      "verified_peer_review_evidence": "Crossref registra o DOI como artigo de periódico e fornece autores, ano, título e Journal of Economic Surveys: https://api.crossref.org/works/10.1111/j.1467-6419.1996.tb00014.x. A página de instruções da Wiley informa revisão duplo-cega, processo de refereeing padrão e decisão baseada nos relatórios dos referees: https://onlinelibrary.wiley.com/page/journal/14676419/homepage/guide.htm.",
+      "finding_and_relevance": "Revisão fundacional organiza e avalia cinco hipóteses empíricas de ilusão fiscal: complexidade e elasticidade da receita, flypaper effect, renter illusion e debt illusion. Serve como mapa conceitual e base para justificar hipóteses sobre receitas próprias, transferências intergovernamentais, endividamento e gasto local no estudo comparativo proposto."
+    },
+    {
+      "authors": "Rupert Sausgruber; Jean-Robert Tyran",
+      "year": 2005,
+      "title": "Testing the Mill hypothesis of fiscal illusion",
+      "journal": "Public Choice",
+      "doi": "10.1007/s11127-005-3992-4",
+      "publisher_or_index_url": "https://link.springer.com/article/10.1007/s11127-005-3992-4",
+      "verified_peer_review_evidence": "Crossref confirma autores, ano 2005, título, periódico Public Choice, DOI e type=journal-article: https://api.crossref.org/works/10.1007/s11127-005-3992-4. As diretrizes da Springer documentam que os artigos submetidos passam por peer review e mencionam revisores e o processo de revisão: https://link.springer.com/journal/11127/submission-guidelines.",
+      "finding_and_relevance": "Experimento testa a hipótese de Mill: tributos indiretos são subestimados quando menos visíveis que tributos diretos; a ilusão altera decisões de referendo e gera redistribuição excessiva, embora possa ser superada com aprendizagem. Ajuda a operacionalizar percepção/saliência tributária e accountability eleitoral em decisões sobre receitas e despesas públicas."
+    },
+    {
+      "authors": "Roberto Dell’Anno; Paulo Mourao",
+      "year": 2012,
+      "title": "Fiscal Illusion around the World: An Analysis Using the Structural Equation Approach",
+      "journal": "Public Finance Review",
+      "doi": "10.1177/1091142111425226",
+      "publisher_or_index_url": "https://journals.sagepub.com/doi/10.1177/1091142111425226",
+      "verified_peer_review_evidence": "Crossref confirma DOI, autores, título, Public Finance Review, type=journal-article e publicação impressa em 2012: https://api.crossref.org/works/10.1177/1091142111425226. A página oficial da SAGE identifica Public Finance Review explicitamente como periódico peer-reviewed: https://journals.sagepub.com/home/pfr.",
+      "finding_and_relevance": "Constrói índice de ilusão fiscal para cerca de 50 países em 2000–2008 e estima modelo MIMIC; emprego por conta própria e alíquotas marginais nominais, por aumentarem a visibilidade da carga, aparecem como incentivos relevantes para distorcer percepções. Oferece referência comparativa internacional para discutir visibilidade tributária, informação e desenho institucional no Chile e nos municípios gaúchos."
+    },
+    {
+      "authors": "Raj Chetty; Adam Looney; Kory Kroft",
+      "year": 2009,
+      "title": "Salience and Taxation: Theory and Evidence",
+      "journal": "American Economic Review",
+      "doi": "10.1257/aer.99.4.1145",
+      "publisher_or_index_url": "https://www.aeaweb.org/articles?id=10.1257/aer.99.4.1145",
+      "verified_peer_review_evidence": "A página da American Economic Association fornece a citação completa e DOI; Crossref confirma autores, ano, periódico e type=journal-article: https://api.crossref.org/works/10.1257/aer.99.4.1145. A política editorial da AEA declara que a American Economic Review usa single-blind peer review por coeditor e referee(s): https://www.aeaweb.org/journals/aer/editorial-policy.",
+      "finding_and_relevance": "Em experimento de campo, incluir o imposto no preço anunciado reduz a demanda em 8%; aumentos de impostos já incorporados ao preço reduzem mais o consumo de álcool do que aumentos cobrados no caixa. Dá evidência causal para tratar saliência/percepção tributária como mecanismo que afeta respostas a impostos e a avaliação cidadã do custo de políticas públicas."
+    },
+    {
+      "authors": "Norman Gemmell; Oliver Morrissey; Abuzer Pinar",
+      "year": 2003,
+      "title": "Tax perceptions and the demand for public expenditure: evidence from UK micro-data",
+      "journal": "European Journal of Political Economy",
+      "doi": "10.1016/S0176-2680(03)00037-5",
+      "publisher_or_index_url": "https://www.sciencedirect.com/science/article/abs/pii/S0176268003000375",
+      "verified_peer_review_evidence": "Crossref confirma autores, ano 2003, título, European Journal of Political Economy, DOI e type=journal-article: https://api.crossref.org/works/10.1016/S0176-2680(03)00037-5. O guia oficial da Elsevier informa revisão single-anonymized, avaliação inicial pelos editores e, quando adequado, revisão por no mínimo dois revisores: https://www.sciencedirect.com/journal/european-journal-of-political-economy/publish/guide-for-authors.",
+      "finding_and_relevance": "Usa respostas da British Social Attitudes Survey de 1995 para detectar erros de percepção de imposto de renda e VAT; encontra superestimação sistemática do VAT e efeito apenas modesto dessas percepções sobre preferências de gasto público. É especialmente útil para separar percepção de carga, custo tributário efetivo e demanda por despesa ao analisar finanças subnacionais."
+    },
+    {
+      "authors": "Bernardino Benito; Francisco Bastida",
+      "year": 2009,
+      "title": "Budget Transparency, Fiscal Performance, and Political Turnout: An International Approach",
+      "journal": "Public Administration Review",
+      "doi": "10.1111/j.1540-6210.2009.01988.x",
+      "publisher_or_index_url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6210.2009.01988.x",
+      "verified_peer_review_evidence": "Crossref confirma autores, ano, título, Public Administration Review, DOI, páginas e type=journal-article: https://api.crossref.org/works/10.1111/j.1540-6210.2009.01988.x. As instruções oficiais da Wiley descrevem o processo completo de peer review da PAR como double-anonymized e informam que a revisão plena normalmente ocorre em menos de 90 dias: https://onlinelibrary.wiley.com/page/journal/15406210/homepage/forauthors.html.",
+      "finding_and_relevance": "Com índice de 40 características orçamentárias em 41 países, encontra relação positiva entre transparência e saldo fiscal, além de associação entre transparência e participação eleitoral; maior divulgação limita o uso oportunista de déficits. É uma ponte empírica direta entre transparência, disciplina fiscal e accountability, aplicável à comparação de receitas, despesas e prestação de contas municipais."
+    },
+    {
+      "authors": "James E. Alt; David Dreyer Lassen",
+      "year": 2006,
+      "title": "Fiscal transparency, political parties, and debt in OECD countries",
+      "journal": "European Economic Review",
+      "doi": "10.1016/j.euroecorev.2005.04.001",
+      "publisher_or_index_url": "https://www.sciencedirect.com/science/article/pii/S0014292105000668",
+      "verified_peer_review_evidence": "Crossref confirma autores, ano 2006, título, European Economic Review, DOI e type=journal-article: https://api.crossref.org/works/10.1016/j.euroecorev.2005.04.001. O guia oficial da Elsevier informa revisão single-anonymized, avaliação editorial e revisão por pelo menos dois revisores para manuscritos adequados: https://www.elsevier.com/journals/european-economic-review/0014-2921/guide-for-authors.",
+      "finding_and_relevance": "Constrói índice replicável de transparência fiscal para 19 países da OCDE e encontra associação robusta entre maior transparência, ciclos orçamentários menores e menor dívida e déficit, controlando partidarismo, polarização e endogeneidade. Fornece base para ligar transparência/accountability a sustentabilidade fiscal e ao desenho de regras e autonomia no Chile e nos governos locais brasileiros."
+    }
+  ],
+  "notes": "Foram selecionados exatamente 8 artigos distintos; todos foram conferidos em página de origem do editor e/ou Crossref, que os registra como journal-article, e todos têm DOI verificável. A data de Dell’Anno e Mourao é 2012 na publicação impressa/Crossref (a página SAGE também registra publicação online em 2011); foi usado 2012 para manter o ano do fascículo. O item Dollery–Worthington é uma revisão publicada em periódico revisado por pares, incluída como revisão fundacional; os demais são estudos empíricos ou combinam teoria e evidência. Nenhum DOI foi substituído por página genérica e não há item não confirmado."
+}
