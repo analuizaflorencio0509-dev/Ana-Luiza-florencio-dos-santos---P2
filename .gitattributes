@@ -1,0 +1,20 @@
+# Normalize source and data text to LF for stable cross-platform diffs.
+*.md text eol=lf
+*.typ text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.txt text eol=lf
+*.py text eol=lf
+*.R text eol=lf
+*.sh text eol=lf
+
+# Treat generated documents, spreadsheets, images, and serialized caches as binary.
+*.pdf binary
+*.xlsx binary
+*.xls binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.rds binary
+*.RDS binary
+*.zip binary

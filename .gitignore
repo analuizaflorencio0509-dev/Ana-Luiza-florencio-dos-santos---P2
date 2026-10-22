@@ -1,0 +1,15 @@
+# Historical source archive for a different entity set; retained locally, not needed for this reproduction
+/data/original/
+
+# Build, verification, and visual-review artifacts
+/artigo/main-review*/
+/artigo/*.typst-diagnostics.log
+/artigo/*.verify.json
+/artigo/.typst-build-plan.json
+/artigo/.typst-content-manifest.json
+
+# Python and R transient files
+**/__pycache__/
+*.py[cod]
+.Rhistory
+.RData
